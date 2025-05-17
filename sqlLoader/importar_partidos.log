@@ -1,0 +1,59 @@
+
+SQL*Loader: Release 21.0.0.0.0 - Production on Mié May 14 21:27:02 2025
+Version 21.3.0.0.0
+
+Copyright (c) 1982, 2021, Oracle and/or its affiliates.  All rights reserved.
+
+Archivo de Control:   C:\proyecto_db2\importar_partidos.ctl
+Archivo de Datos:      C:\proyecto_db2\excel_dba\datosProyectoBDD2_Final.csv
+  Archivo de Errores:     C:\proyecto_db2\excel_dba\datosProyectoBDD2_Final.bad
+  Desechar Archivo: C:\proyecto_db2\excel_dba\datosProyectoBDD2_Final.dsc 
+ (Permitir todos los registros desechados)
+
+Número a cargar: ALL
+Número que omitir: 1
+Errores permitidos: 50
+Matriz de enlace:     250 filas, máximo de 1048576 bytes
+Continuación:    ninguno especificado
+Ruta de acceso utilizada:      Convencional
+
+Tabla C##STAGE.BD2_STG_DATOS, cargada de cada registro lógico.
+Opción INSERT activa para esta tabla: APPEND
+Opción TRAILING NULLCOLS activada
+
+   Nombre Columna                  Posición   Long  Term Entorno Tipo de Dato
+------------------------------ ---------- ----- ---- ---- ---------------------
+ANIO                                FIRST     *   ;  O(") CHARACTER            
+FECHA                                NEXT     *   ;  O(") DATE DD/MM/YYYY      
+HORA                                 NEXT     *   ;  O(") CHARACTER            
+RONDA                                NEXT     *   ;  O(") CHARACTER            
+ESTADIO                              NEXT     *   ;  O(") CHARACTER            
+CIUDAD                               NEXT     *   ;  O(") CHARACTER            
+PAIS                                 NEXT     *   ;  O(") CHARACTER            
+EQUIPO_LOCAL                         NEXT     *   ;  O(") CHARACTER            
+GOL_LOCAL                            NEXT     *   ;  O(") CHARACTER            
+EQUIPO_VISITA                        NEXT     *   ;  O(") CHARACTER            
+GOL_VISITA                           NEXT     *   ;  O(") CHARACTER            
+ASISTENCIA                           NEXT     *   ;  O(") CHARACTER            
+
+
+Tabla C##STAGE.BD2_STG_DATOS:
+  852 Filas cargadas correctamente.
+  0 Filas no cargadas debido a errores de datos.
+  0 Filas no cargadas porque todas las cláusulas WHEN han fallado.
+  0 Filas no cargadas porque todos los campos eran nulos.
+
+
+Espacio asignado a matriz de enlace:           774000 bytes (250 filas)
+Bytes de buffer de lectura: 1048576
+
+Total de registros lógicos omitidos:          1
+Total de registros lógicos leídos:         852
+Total de registros lógicos rechazados:         0
+Total de registros lógicos desechados:        0
+
+La ejecución empezó en Mié May 14 21:27:02 2025
+La ejecución terminó en Mié May 14 21:27:02 2025
+
+Tiempo transcurrido:     00:00:00.32
+Tiempo de CPU:         00:00:00.15

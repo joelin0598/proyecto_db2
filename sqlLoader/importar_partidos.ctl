@@ -1,0 +1,23 @@
+OPTIONS (SKIP=1)
+LOAD DATA
+INFILE 'C:\proyecto_db2\excel_dba\datosProyectoBDD2_Final.csv'
+BADFILE 'C:\proyecto_db2\excel_dba\datosProyectoBDD2_Final.bad'
+DISCARDFILE 'C:\proyecto_db2\excel_dba\datosProyectoBDD2_Final.dsc'
+INTO TABLE C##STAGE.BD2_STG_DATOS
+APPEND
+FIELDS TERMINATED BY ';' OPTIONALLY ENCLOSED BY '"'
+TRAILING NULLCOLS
+(
+  ANIO,
+  FECHA DATE "DD/MM/YYYY",
+  HORA,
+  RONDA,
+  ESTADIO,
+  CIUDAD,
+  PAIS,
+  EQUIPO_LOCAL,
+  GOL_LOCAL,
+  EQUIPO_VISITA,
+  GOL_VISITA,
+  ASISTENCIA
+)

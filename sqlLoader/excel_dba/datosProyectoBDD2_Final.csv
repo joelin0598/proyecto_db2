@@ -1,0 +1,853 @@
+﻿Anio;Fecha;Hora;Ronda;Estadio;Ciudad;Pais;EquipoLocal;golLocal;EquipoVisita;golVisita;Asistencia
+1930;13/07/1930;15:00;Group 1;Pocitos;Montevideo ;Uruguay;France;4;Mexico;1;48232
+1930;13/07/1930;15:00;Group 4;Parque Central;Montevideo ;Uruguay;USA;3;Belgium;0;6342
+1930;14/07/1930;12:45;Group 2;Parque Central;Montevideo ;Uruguay;Yugoslavia;2;Brazil;1;20447
+1930;14/07/1930;14:50;Group 3;Pocitos;Montevideo ;Uruguay;Romania;3;Peru;1;44878
+1930;15/07/1930;16:00;Group 1;Parque Central;Montevideo ;Uruguay;Argentina;1;France;0;47055
+1930;16/07/1930;14:45;Group 1;Parque Central;Montevideo ;Uruguay;Chile;3;Mexico;0;43771
+1930;17/07/1930;12:45;Group 2;Parque Central;Montevideo ;Uruguay;Yugoslavia;4;Bolivia;0;23198
+1930;17/07/1930;14:45;Group 4;Parque Central;Montevideo ;Uruguay;USA;3;Paraguay;0;24497
+1930;18/07/1930;14:30;Group 3;Estadio Centenario;Montevideo ;Uruguay;Uruguay;1;Peru;0;3218
+1930;19/07/1930;12:50;Group 1;Estadio Centenario;Montevideo ;Uruguay;Chile;1;France;0;5038
+1930;19/07/1930;15:00;Group 1;Estadio Centenario;Montevideo ;Uruguay;Argentina;6;Mexico;3;17855
+1930;20/07/1930;13:00;Group 2;Estadio Centenario;Montevideo ;Uruguay;Brazil;4;Bolivia;0;44312
+1930;20/07/1930;15:00;Group 4;Estadio Centenario;Montevideo ;Uruguay;Paraguay;1;Belgium;0;4346
+1930;21/07/1930;14:50;Group 3;Estadio Centenario;Montevideo ;Uruguay;Uruguay;4;Romania;0;8620
+1930;22/07/1930;14:45;Group 1;Estadio Centenario;Montevideo ;Uruguay;Argentina;3;Chile;1;20104
+1930;26/07/1930;14:45;Semi-finals;Estadio Centenario;Montevideo ;Uruguay;Argentina;6;USA;1;15036
+1930;27/07/1930;14:45;Semi-finals;Estadio Centenario;Montevideo ;Uruguay;Uruguay;6;Yugoslavia;1;27584
+1930;30/07/1930;14:15;Final;Estadio Centenario;Montevideo ;Uruguay;Uruguay;4;Argentina;2;32394
+1934;27/05/1934;16:30;Preliminary round;Stadio Benito Mussolini;Turin ;Italy;Austria;3;France;2;26696
+1934;27/05/1934;16:30;Preliminary round;Giorgio Ascarelli;Naples ;Italy;Hungary;4;Egypt;2;15567
+1934;27/05/1934;16:30;Preliminary round;San Siro;Milan ;Italy;Switzerland;3;Netherlands;2;44890
+1934;27/05/1934;16:30;Preliminary round;Littorale;Bologna ;Italy;Sweden;3;Argentina;2;29262
+1934;27/05/1934;16:30;Preliminary round;Giovanni Berta;Florence ;Italy;Germany;5;Belgium;2;1126
+1934;27/05/1934;16:30;Preliminary round;Luigi Ferraris;Genoa ;Italy;Spain;3;Brazil;1;16307
+1934;27/05/1934;16:30;Preliminary round;Nazionale PNF;Rome ;Italy;Italy;7;USA;1;19035
+1934;27/05/1934;16:30;Preliminary round;Littorio;Trieste ;Italy;Czechoslovakia;2;Romania;1;24274
+1934;31/05/1934;16:30;Quarter-finals;Stadio Benito Mussolini;Turin ;Italy;Czechoslovakia;3;Switzerland;2;17693
+1934;31/05/1934;16:30;Quarter-finals;San Siro;Milan ;Italy;Germany;2;Sweden;1;37892
+1934;31/05/1934;16:30;Quarter-finals;Giovanni Berta;Florence ;Italy;Italy;1;Spain;1;35249
+1934;31/05/1934;16:30;Quarter-finals;Littorale;Bologna ;Italy;Austria;2;Hungary;1;12808
+1934;1/06/1934;16:30;Quarter-finals;Giovanni Berta;Florence ;Italy;Italy;1;Spain;0;39700
+1934;3/06/1934;16:30;Semi-finals;San Siro;Milan ;Italy;Italy;1;Austria;0;4142
+1934;3/06/1934;16:30;Semi-finals;Nazionale PNF;Rome ;Italy;Czechoslovakia;3;Germany;1;39528
+1934;7/06/1934;18:00;Match for third place;Giorgio Ascarelli;Naples ;Italy;Germany;3;Austria;2;39688
+1934;10/06/1934;17:30;Final;Nazionale PNF;Rome ;Italy;Italy;2;Czechoslovakia;1;45603
+1938;4/06/1938;17:00;First round;Parc des Princes;Paris ;France;Switzerland;1;Germany;1;24528
+1938;5/06/1938;17:00;First round;Velodrome Municipale;Reims ;France;Hungary;6;Dutch East Indies;0;19193
+1938;5/06/1938;17:00;First round;Stade Olympique;Colombes ;France;France;3;Belgium;1;21585
+1938;5/06/1938;17:00;First round;Stade Municipal;Toulouse ;France;Cuba;3;Romania;3;26484
+1938;5/06/1938;17:00;First round;Stade Vélodrome;Marseilles ;France;Italy;2;Norway;1;41753
+1938;5/06/1938;17:30;First round;Stade de la Meinau;Strasbourg ;France;Brazil;6;Poland;5;19984
+1938;5/06/1938;18:30;First round;Cavee Verte;Le Havre ;France;Czechoslovakia;3;Netherlands;0;21118
+1938;9/06/1938;18:00;First round;Stade Municipal;Toulouse ;France;Cuba;2;Romania;1;47319
+1938;9/06/1938;18:00;First round;Parc des Princes;Paris ;France;Switzerland;4;Germany;2;1448
+1938;12/06/1938;17:00;Quarter-finals;Stade du Parc Lescure;Bordeaux ;France;Brazil;1;Czechoslovakia;1;49447
+1938;12/06/1938;17:00;Quarter-finals;Victor Boucquey;Lille ;France;Hungary;2;Switzerland;0;39511
+1938;12/06/1938;17:00;Quarter-finals;Fort Carree;Antibes ;France;Sweden;8;Cuba;0;47351
+1938;12/06/1938;17:00;Quarter-finals;Stade Olympique;Colombes ;France;Italy;3;France;1;32014
+1938;14/06/1938;18:00;Quarter-finals;Stade du Parc Lescure;Bordeaux ;France;Brazil;2;Czechoslovakia;1;46145
+1938;16/06/1938;18:00;Semi-finals;Parc des Princes;Paris ;France;Hungary;5;Sweden;1;17443
+1938;16/06/1938;18:00;Semi-finals;Stade Vélodrome;Marseilles ;France;Italy;2;Brazil;1;38791
+1938;19/06/1938;17:00;Match for third place;Stade du Parc Lescure;Bordeaux ;France;Brazil;4;Sweden;2;17471
+1938;19/06/1938;17:00;Final;Stade Olympique;Colombes ;France;Italy;4;Hungary;2;33715
+1950;24/06/1950;15:00;Group 1;Maracaná - Estádio Jornalista Mário Filho;Rio De Janeiro ;Brazil;Brazil;4;Mexico;0;37460
+1950;25/06/1950;15:00;Group 2;Maracaná - Estádio Jornalista Mário Filho;Rio De Janeiro ;Brazil;England;2;Chile;0;49653
+1950;25/06/1950;15:00;Group 2;Durival de Brito;Curitiba ;Brazil;Spain;3;USA;1;47058
+1950;25/06/1950;15:00;Group 3;Pacaembu;Sao Paulo ;Brazil;Sweden;3;Italy;2;44981
+1950;25/06/1950;15:00;Group 1;Independencia;Belo Horizonte ;Brazil;Yugoslavia;3;Switzerland;0;20177
+1950;28/06/1950;15:00;Group 1;Pacaembu;Sao Paulo ;Brazil;Brazil;2;Switzerland;2;38078
+1950;28/06/1950;15:00;Group 1;Eucaliptos;Porto Alegre ;Brazil;Yugoslavia;4;Mexico;1;11064
+1950;29/06/1950;15:00;Group 2;Maracaná - Estádio Jornalista Mário Filho;Rio De Janeiro ;Brazil;Spain;2;Chile;0;20853
+1950;29/06/1950;15:30;Group 3;Durival de Brito;Curitiba ;Brazil;Sweden;2;Paraguay;2;12064
+1950;29/06/1950;15:00;Group 2;Independencia;Belo Horizonte ;Brazil;USA;1;England;0;21451
+1950;1/07/1950;15:00;Group 1;Maracaná - Estádio Jornalista Mário Filho;Rio De Janeiro ;Brazil;Brazil;2;Yugoslavia;0;32030
+1950;2/07/1950;15:00;Group 2;Maracaná - Estádio Jornalista Mário Filho;Rio De Janeiro ;Brazil;Spain;1;England;0;23338
+1950;2/07/1950;15:00;Group 3;Pacaembu;Sao Paulo ;Brazil;Italy;2;Paraguay;0;8678
+1950;2/07/1950;15:00;Group 4;Independencia;Belo Horizonte ;Brazil;Uruguay;8;Bolivia;0;43457
+1950;2/07/1950;15:40;Group 1;Eucaliptos;Porto Alegre ;Brazil;Switzerland;2;Mexico;1;16356
+1950;2/07/1950;15:00;Group 2;Ilha do Retiro;Recife ;Brazil;Chile;5;USA;2;1819
+1950;9/07/1950;15:00;Group 6;Pacaembu;Sao Paulo ;Brazil;Uruguay;2;Spain;2;37975
+1950;9/07/1950;15:00;Group 6;Maracaná - Estádio Jornalista Mário Filho;Rio De Janeiro ;Brazil;Brazil;7;Sweden;1;8574
+1950;13/07/1950;15:00;Group 6;Maracaná - Estádio Jornalista Mário Filho;Rio De Janeiro ;Brazil;Brazil;6;Spain;1;35641
+1950;13/07/1950;15:00;Group 6;Pacaembu;Sao Paulo ;Brazil;Uruguay;3;Sweden;2;46457
+1950;16/07/1950;15:00;Group 6;Pacaembu;Sao Paulo ;Brazil;Sweden;3;Spain;1;46743
+1950;16/07/1950;15:00;Group 6;Maracaná - Estádio Jornalista Mário Filho;Rio De Janeiro ;Brazil;Uruguay;2;Brazil;1;23664
+1954;16/06/1954;18:00;Group 3;Wankdorf Stadium;Berne ;Switzerland;Uruguay;2;Czechoslovakia;0;2635
+1954;16/06/1954;18:00;Group 3;Hardturm;Zurich ;Switzerland;Austria;1;Scotland;0;46981
+1954;16/06/1954;18:00;Group 1;Charmilles;Geneva ;Switzerland;Brazil;5;Mexico;0;22688
+1954;16/06/1954;18:00;Group 1;La Pontaise;Lausanne ;Switzerland;Yugoslavia;1;France;0;38121
+1954;17/06/1954;18:00;Group 2;Wankdorf Stadium;Berne ;Switzerland;Germany FR;4;Turkey;1;48450
+1954;17/06/1954;18:00;Group 2;Hardturm;Zurich ;Switzerland;Hungary;9;Korea Republic;0;18638
+1954;17/06/1954;18:10;Group 4;St. Jakob;Basel ;Switzerland;England;4;Belgium;4;7972
+1954;17/06/1954;17:50;Group 4;La Pontaise;Lausanne ;Switzerland;Switzerland;2;Italy;1;21146
+1954;19/06/1954;16:50;Group 3;St. Jakob;Basel ;Switzerland;Uruguay;7;Scotland;0;42165
+1954;19/06/1954;17:00;Group 3;Hardturm;Zurich ;Switzerland;Austria;5;Czechoslovakia;0;13231
+1954;19/06/1954;17:10;Group 1;Charmilles;Geneva ;Switzerland;France;3;Mexico;2;21373
+1954;19/06/1954;17:00;Group 1;La Pontaise;Lausanne ;Switzerland;Brazil;1;Yugoslavia;1;47632
+1954;20/06/1954;16:50;Group 2;St. Jakob;Basel ;Switzerland;Hungary;8;Germany FR;3;24513
+1954;20/06/1954;17:00;Group 2;Charmilles;Geneva ;Switzerland;Turkey;7;Korea Republic;0;33506
+1954;20/06/1954;17:10;Group 4;Wankdorf Stadium;Berne ;Switzerland;England;2;Switzerland;0;16515
+1954;20/06/1954;17:00;Group 4;Comunale di Cornaredo;Lugano ;Switzerland;Italy;4;Belgium;1;33439
+1954;23/06/1954;18:00;Group 2;Hardturm;Zurich ;Switzerland;Germany FR;7;Turkey;2;17244
+1954;23/06/1954;18:00;Group 4;St. Jakob;Basel ;Switzerland;Switzerland;4;Italy;1;8123
+1954;26/06/1954;17:00;Quarter-finals;St. Jakob;Basel ;Switzerland;Uruguay;4;England;2;43401
+1954;26/06/1954;17:00;Quarter-finals;La Pontaise;Lausanne ;Switzerland;Austria;7;Switzerland;5;36436
+1954;27/06/1954;17:00;Quarter-finals;Charmilles;Geneva ;Switzerland;Germany FR;2;Yugoslavia;0;17078
+1954;27/06/1954;17:00;Quarter-finals;Wankdorf Stadium;Berne ;Switzerland;Hungary;4;Brazil;2;6369
+1954;30/06/1954;18:00;Semi-finals;St. Jakob;Basel ;Switzerland;Germany FR;6;Austria;1;44791
+1954;30/06/1954;18:00;Semi-finals;La Pontaise;Lausanne ;Switzerland;Hungary;4;Uruguay;2;7269
+1954;3/07/1954;17:00;Match for third place;Hardturm;Zurich ;Switzerland;Austria;3;Uruguay;1;15243
+1954;4/07/1954;17:00;Final;Wankdorf Stadium;Berne ;Switzerland;Germany FR;3;Hungary;2;17749
+1958;8/06/1958;14:00;Group 3;Rasunda Stadium;Solna ;Sweden;Sweden;3;Mexico;0;47980
+1958;8/06/1958;19:00;Group 4;Nya Ullevi;Gothenburg ;Sweden;Soviet Union;2;England;2;21947
+1958;8/06/1958;19:00;Group 1;Malmo Stadion;Malmo;Sweden;Argentina;1;Germany FR;3;48743
+1958;8/06/1958;19:00;Group 3;Jarnvallen;Sandviken ;Sweden;Hungary;1;Wales;1;35415
+1958;8/06/1958;19:00;Group 2;Idrottsparken;Norrkoping;Sweden;France;7;Paraguay;3;41612
+1958;8/06/1958;19:00;Group 2;Arosvallen;Vasteras ;Sweden;Yugoslavia;1;Scotland;1;32991
+1958;8/06/1958;19:00;Group 4;Rimnersvallen;Udevalla ;Sweden;Brazil;3;Austria;0;38117
+1958;8/06/1958;19:00;Group 1;Orjans Vall;Halmstad ;Sweden;Northern Ireland;1;Czechoslovakia;0;18428
+1958;11/06/1958;19:00;Group 4;Nya Ullevi;Gothenburg ;Sweden;Brazil;0;England;0;35515
+1958;11/06/1958;19:00;Group 3;Rasunda Stadium;Solna ;Sweden;Mexico;1;Wales;1;48246
+1958;11/06/1958;19:00;Group 2;Idrottsparken;Norrkoping;Sweden;Paraguay;3;Scotland;2;39659
+1958;11/06/1958;19:00;Group 2;Arosvallen;Vasteras ;Sweden;Yugoslavia;3;France;2;11499
+1958;11/06/1958;19:00;Group 4;Ryavallen;Boras ;Sweden;Soviet Union;2;Austria;0;3965
+1958;11/06/1958;19:00;Group 1;Olympia Stadium;Helsingborg ;Sweden;Germany FR;2;Czechoslovakia;2;4928
+1958;11/06/1958;19:00;Group 1;Orjans Vall;Halmstad ;Sweden;Argentina;3;Northern Ireland;1;42126
+1958;12/06/1958;19:00;Group 3;Rasunda Stadium;Solna ;Sweden;Sweden;2;Hungary;1;4581
+1958;15/06/1958;14:00;Group 3;Rasunda Stadium;Solna ;Sweden;Sweden;0;Wales;0;22595
+1958;15/06/1958;19:00;Group 4;Nya Ullevi;Gothenburg ;Sweden;Brazil;2;Soviet Union;0;38683
+1958;15/06/1958;19:00;Group 1;Malmo Stadion;Malmo;Sweden;Germany FR;2;Northern Ireland;2;20122
+1958;15/06/1958;19:00;Group 3;Jarnvallen;Sandviken ;Sweden;Hungary;4;Mexico;0;24429
+1958;15/06/1958;19:00;Group 2;Tunavallen;Eskilstuna ;Sweden;Paraguay;3;Yugoslavia;3;13520
+1958;15/06/1958;19:00;Group 2;Eyravallen;Orebro ;Sweden;France;2;Scotland;1;30072
+1958;15/06/1958;19:00;Group 4;Ryavallen;Boras ;Sweden;England;2;Austria;2;6520
+1958;15/06/1958;19:00;Group 1;Olympia Stadium;Helsingborg ;Sweden;Czechoslovakia;6;Argentina;1;2550
+1958;17/06/1958;19:00;Group 4;Nya Ullevi;Gothenburg ;Sweden;Soviet Union;1;England;0;1237
+1958;17/06/1958;19:00;Group 1;Malmo Stadion;Malmo;Sweden;Northern Ireland;2;Czechoslovakia;1;1834
+1958;17/06/1958;19:00;Group 3;Rasunda Stadium;Solna ;Sweden;Wales;2;Hungary;1;34162
+1958;19/06/1958;19:00;Quarter-finals;Nya Ullevi;Gothenburg ;Sweden;Brazil;1;Wales;0;43389
+1958;19/06/1958;19:00;Quarter-finals;Malmo Stadion;Malmo;Sweden;Germany FR;1;Yugoslavia;0;32509
+1958;19/06/1958;19:00;Quarter-finals;Rasunda Stadium;Solna ;Sweden;Sweden;2;Soviet Union;0;4432
+1958;19/06/1958;19:00;Quarter-finals;Idrottsparken;Norrkoping;Sweden;France;4;Northern Ireland;0;10498
+1958;24/06/1958;19:00;Semi-finals;Nya Ullevi;Gothenburg ;Sweden;Sweden;3;Germany FR;1;28843
+1958;24/06/1958;19:00;Semi-finals;Rasunda Stadium;Solna ;Sweden;Brazil;5;France;2;26002
+1958;28/06/1958;17:00;Match for third place;Nya Ullevi;Gothenburg ;Sweden;France;6;Germany FR;3;10492
+1958;29/06/1958;15:00;Final;Rasunda Stadium;Solna ;Sweden;Brazil;5;Sweden;2;47678
+1962;30/05/1962;15:00;Group 1;Carlos Dittborn;Arica ;Chile;Uruguay;2;Colombia;1;15560
+1962;30/05/1962;15:00;Group 3;Estadio Sausalito;Vina Del Mar ;Chile;Brazil;2;Mexico;0;22604
+1962;30/05/1962;15:00;Group 4;Estadio El Teniente-Codelco;Rancagua ;Chile;Argentina;1;Bulgaria;0;43863
+1962;30/05/1962;15:00;Group 2;Nacional;Santiago De Chile ;Chile;Chile;3;Switzerland;1;37780
+1962;31/05/1962;15:00;Group 1;Carlos Dittborn;Arica ;Chile;Soviet Union;2;Yugoslavia;0;43104
+1962;31/05/1962;15:00;Group 3;Estadio Sausalito;Vina Del Mar ;Chile;Czechoslovakia;1;Spain;0;20148
+1962;31/05/1962;15:00;Group 4;Estadio El Teniente-Codelco;Rancagua ;Chile;Hungary;2;England;1;47584
+1962;31/05/1962;15:00;Group 2;Nacional;Santiago De Chile ;Chile;Germany FR;0;Italy;0;25332
+1962;2/06/1962;15:00;Group 1;Carlos Dittborn;Arica ;Chile;Yugoslavia;3;Uruguay;1;10742
+1962;2/06/1962;15:00;Group 3;Estadio Sausalito;Vina Del Mar ;Chile;Brazil;0;Czechoslovakia;0;16745
+1962;2/06/1962;15:00;Group 4;Estadio El Teniente-Codelco;Rancagua ;Chile;England;3;Argentina;1;39862
+1962;2/06/1962;15:00;Group 2;Nacional;Santiago De Chile ;Chile;Chile;2;Italy;0;40477
+1962;3/06/1962;15:00;Group 1;Carlos Dittborn;Arica ;Chile;Soviet Union;4;Colombia;4;15640
+1962;3/06/1962;15:00;Group 3;Estadio Sausalito;Vina Del Mar ;Chile;Spain;1;Mexico;0;42365
+1962;3/06/1962;15:00;Group 4;Estadio El Teniente-Codelco;Rancagua ;Chile;Hungary;6;Bulgaria;1;23239
+1962;3/06/1962;15:00;Group 2;Nacional;Santiago De Chile ;Chile;Germany FR;2;Switzerland;1;43093
+1962;6/06/1962;15:00;Group 1;Carlos Dittborn;Arica ;Chile;Soviet Union;2;Uruguay;1;10731
+1962;6/06/1962;15:00;Group 3;Estadio Sausalito;Vina Del Mar ;Chile;Brazil;2;Spain;1;2972
+1962;6/06/1962;15:00;Group 4;Estadio El Teniente-Codelco;Rancagua ;Chile;Hungary;0;Argentina;0;6579
+1962;6/06/1962;15:00;Group 2;Nacional;Santiago De Chile ;Chile;Germany FR;2;Chile;0;30349
+1962;7/06/1962;15:00;Group 1;Carlos Dittborn;Arica ;Chile;Yugoslavia;5;Colombia;0;37772
+1962;7/06/1962;15:00;Group 3;Estadio Sausalito;Vina Del Mar ;Chile;Mexico;3;Czechoslovakia;1;47928
+1962;7/06/1962;15:00;Group 4;Estadio El Teniente-Codelco;Rancagua ;Chile;England;0;Bulgaria;0;14326
+1962;7/06/1962;15:00;Group 2;Nacional;Santiago De Chile ;Chile;Italy;3;Switzerland;0;43748
+1962;10/06/1962;14:30;Quarter-finals;Carlos Dittborn;Arica ;Chile;Chile;2;Soviet Union;1;44982
+1962;10/06/1962;14:30;Quarter-finals;Estadio Sausalito;Vina Del Mar ;Chile;Brazil;3;England;1;29396
+1962;10/06/1962;14:30;Quarter-finals;Estadio El Teniente-Codelco;Rancagua ;Chile;Czechoslovakia;1;Hungary;0;9702
+1962;10/06/1962;14:30;Quarter-finals;Nacional;Santiago De Chile ;Chile;Yugoslavia;1;Germany FR;0;31511
+1962;13/06/1962;14:30;Semi-finals;Estadio Sausalito;Vina Del Mar ;Chile;Czechoslovakia;3;Yugoslavia;1;27301
+1962;13/06/1962;14:30;Semi-finals;Nacional;Santiago De Chile ;Chile;Brazil;4;Chile;2;37981
+1962;16/06/1962;14:30;Match for third place;Nacional;Santiago De Chile ;Chile;Chile;1;Yugoslavia;0;28032
+1962;17/06/1962;14:30;Final;Nacional;Santiago De Chile ;Chile;Brazil;3;Czechoslovakia;1;49406
+1966;11/07/1966;19:30;Group 1;Wembley Stadium;London ;England;England;0;Uruguay;0;15154
+1966;12/07/1966;19:30;Group 2;Hillsborough;Sheffield ;England;Germany FR;5;Switzerland;0;49330
+1966;12/07/1966;19:30;Group 3;Goodison Park;Liverpool ;England;Brazil;2;Bulgaria;0;44397
+1966;12/07/1966;19:30;Group 4;Ayresome Park;Middlesbrough ;England;Soviet Union;3;Korea DPR;0;30472
+1966;13/07/1966;19:30;Group 1;Wembley Stadium;London ;England;France;1;Mexico;1;17807
+1966;13/07/1966;19:30;Group 3;Old Trafford Stadium;Manchester ;England;Portugal;3;Hungary;1;48435
+1966;13/07/1966;19:30;Group 2;Villa Park;Birmingham ;England;Argentina;2;Spain;1;28106
+1966;13/07/1966;19:30;Group 4;Roker Park Ground;Sunderland ;England;Italy;2;Chile;0;49151
+1966;15/07/1966;19:30;Group 1;White City;London ;England;Uruguay;2;France;1;31226
+1966;15/07/1966;19:30;Group 2;Hillsborough;Sheffield ;England;Spain;2;Switzerland;1;23852
+1966;15/07/1966;19:30;Group 3;Goodison Park;Liverpool ;England;Hungary;3;Brazil;1;46389
+1966;15/07/1966;19:30;Group 4;Ayresome Park;Middlesbrough ;England;Korea DPR;1;Chile;1;4985
+1966;16/07/1966;15:00;Group 3;Old Trafford Stadium;Manchester ;England;Portugal;3;Bulgaria;0;41752
+1966;16/07/1966;15:00;Group 2;Villa Park;Birmingham ;England;Germany FR;0;Argentina;0;33139
+1966;16/07/1966;15:00;Group 4;Roker Park Ground;Sunderland ;England;Soviet Union;1;Italy;0;8301
+1966;16/07/1966;19:30;Group 1;Wembley Stadium;London ;England;England;2;Mexico;0;28797
+1966;19/07/1966;16:30;Group 1;Wembley Stadium;London ;England;Uruguay;0;Mexico;0;4886
+1966;19/07/1966;19:30;Group 2;Hillsborough;Sheffield ;England;Argentina;2;Switzerland;0;13081
+1966;19/07/1966;19:30;Group 3;Goodison Park;Liverpool ;England;Portugal;3;Brazil;1;33340
+1966;19/07/1966;19:30;Group 4;Ayresome Park;Middlesbrough ;England;Korea DPR;1;Italy;0;23258
+1966;20/07/1966;19:30;Group 1;Wembley Stadium;London ;England;England;2;France;0;9512
+1966;20/07/1966;19:30;Group 3;Old Trafford Stadium;Manchester ;England;Hungary;3;Bulgaria;1;34874
+1966;20/07/1966;19:30;Group 2;Villa Park;Birmingham ;England;Germany FR;2;Spain;1;34561
+1966;20/07/1966;19:30;Group 4;Roker Park Ground;Sunderland ;England;Soviet Union;2;Chile;1;36231
+1966;23/07/1966;15:00;Quarter-finals;Wembley Stadium;London ;England;England;1;Argentina;0;3905
+1966;23/07/1966;15:00;Quarter-finals;Hillsborough;Sheffield ;England;Germany FR;4;Uruguay;0;33619
+1966;23/07/1966;15:00;Quarter-finals;Roker Park Ground;Sunderland ;England;Soviet Union;2;Hungary;1;34963
+1966;23/07/1966;15:00;Quarter-finals;Goodison Park;Liverpool ;England;Portugal;5;Korea DPR;3;5275
+1966;25/07/1966;19:30;Semi-finals;Goodison Park;Liverpool ;England;Germany FR;2;Soviet Union;1;4589
+1966;26/07/1966;19:30;Semi-finals;Wembley Stadium;London ;England;England;2;Portugal;1;26332
+1966;28/07/1966;19:30;Match for third place;Wembley Stadium;London ;England;Portugal;2;Soviet Union;1;21284
+1966;30/07/1966;15:00;Final;Wembley Stadium;London ;England;England;4;Germany FR;2;10370
+1970;31/05/1970;12:00;Group 1;Estadio Azteca;Mexico City ;Mexico;Mexico;0;Soviet Union;0;26758
+1970;2/06/1970;16:00;Group 2;Cuauhtemoc;Puebla ;Mexico;Uruguay;2;Israel;0;23323
+1970;2/06/1970;16:00;Group 4;Nou Camp - Estadio León;Leon ;Mexico;Peru;3;Bulgaria;2;22013
+1970;2/06/1970;16:00;Group 3;Jalisco;Guadalajara ;Mexico;England;1;Romania;0;24458
+1970;3/06/1970;16:00;Group 2;Luis Dosal;Toluca ;Mexico;Italy;1;Sweden;0;22813
+1970;3/06/1970;16:00;Group 4;Nou Camp - Estadio León;Leon ;Mexico;Germany FR;2;Morocco;1;24244
+1970;3/06/1970;16:00;Group 3;Jalisco;Guadalajara ;Mexico;Brazil;4;Czechoslovakia;1;26670
+1970;3/06/1970;16:00;Group 1;Estadio Azteca;Mexico City ;Mexico;Belgium;3;El Salvador;0;42978
+1970;6/06/1970;16:00;Group 2;Cuauhtemoc;Puebla ;Mexico;Uruguay;0;Italy;0;48129
+1970;6/06/1970;16:00;Group 4;Nou Camp - Estadio León;Leon ;Mexico;Peru;3;Morocco;0;23569
+1970;6/06/1970;16:00;Group 3;Jalisco;Guadalajara ;Mexico;Romania;2;Czechoslovakia;1;16538
+1970;6/06/1970;16:00;Group 1;Estadio Azteca;Mexico City ;Mexico;Soviet Union;4;Belgium;1;23933
+1970;7/06/1970;12:00;Group 2;Luis Dosal;Toluca ;Mexico;Sweden;1;Israel;1;39677
+1970;7/06/1970;12:00;Group 4;Nou Camp - Estadio León;Leon ;Mexico;Germany FR;5;Bulgaria;2;30641
+1970;7/06/1970;12:00;Group 3;Jalisco;Guadalajara ;Mexico;Brazil;1;England;0;44227
+1970;7/06/1970;12:00;Group 1;Estadio Azteca;Mexico City ;Mexico;Mexico;4;El Salvador;0;25492
+1970;10/06/1970;16:00;Group 2;Cuauhtemoc;Puebla ;Mexico;Sweden;1;Uruguay;0;24097
+1970;10/06/1970;16:00;Group 4;Nou Camp - Estadio León;Leon ;Mexico;Germany FR;3;Peru;1;14250
+1970;10/06/1970;16:00;Group 3;Jalisco;Guadalajara ;Mexico;Brazil;3;Romania;2;1703
+1970;10/06/1970;16:00;Group 1;Estadio Azteca;Mexico City ;Mexico;Soviet Union;2;El Salvador;0;32583
+1970;11/06/1970;16:00;Group 2;Luis Dosal;Toluca ;Mexico;Italy;0;Israel;0;4706
+1970;11/06/1970;16:00;Group 4;Nou Camp - Estadio León;Leon ;Mexico;Bulgaria;1;Morocco;1;38173
+1970;11/06/1970;16:00;Group 3;Jalisco;Guadalajara ;Mexico;England;1;Czechoslovakia;0;28074
+1970;11/06/1970;16:00;Group 1;Estadio Azteca;Mexico City ;Mexico;Mexico;1;Belgium;0;18968
+1970;14/06/1970;12:00;Quarter-finals;Luis Dosal;Toluca ;Mexico;Italy;4;Mexico;1;36141
+1970;14/06/1970;12:00;Quarter-finals;Nou Camp - Estadio León;Leon ;Mexico;Germany FR;3;England;2;36240
+1970;14/06/1970;12:00;Quarter-finals;Jalisco;Guadalajara ;Mexico;Brazil;4;Peru;2;39324
+1970;14/06/1970;12:00;Quarter-finals;Estadio Azteca;Mexico City ;Mexico;Uruguay;1;Soviet Union;0;26886
+1970;17/06/1970;16:00;Semi-finals;Jalisco;Guadalajara ;Mexico;Brazil;3;Uruguay;1;37435
+1970;17/06/1970;16:00;Semi-finals;Estadio Azteca;Mexico City ;Mexico;Italy;4;Germany FR;3;23238
+1970;20/06/1970;16:00;Match for third place;Estadio Azteca;Mexico City ;Mexico;Germany FR;1;Uruguay;0;35345
+1970;21/06/1970;12:00;Final;Estadio Azteca;Mexico City ;Mexico;Brazil;4;Italy;1;44263
+1974;13/06/1974;17:00;Group 2;Waldstadion;Frankfurt/Main ;Germany;Brazil;0;Yugoslavia;0;13619
+1974;14/06/1974;16:00;Group 1;Olympiastadion;Berlin West ;Germany;Germany FR;1;Chile;0;23475
+1974;14/06/1974;19:30;Group 1;Volksparkstadion;Hamburg ;Germany;German DR;2;Australia;0;15345
+1974;14/06/1974;19:30;Group 2;Westfalenstadion;Dortmund ;Germany;Zaire;0;Scotland;2;47938
+1974;15/06/1974;16:00;Group 3;Niedersachsenstadion;Hanover ;Germany;Uruguay;0;Netherlands;2;13288
+1974;15/06/1974;16:00;Group 3;Rheinstadion;Dusseldorf ;Germany;Sweden;0;Bulgaria;0;15601
+1974;15/06/1974;18:00;Group 4;Olympiastadion;Munich ;Germany;Italy;3;Haiti;1;47171
+1974;15/06/1974;18:00;Group 4;Neckarstadion;Stuttgart ;Germany;Poland;3;Argentina;2;19931
+1974;18/06/1974;16:00;Group 1;Volksparkstadion;Hamburg ;Germany;Australia;0;Germany FR;3;27161
+1974;18/06/1974;19:30;Group 2;Waldstadion;Frankfurt/Main ;Germany;Scotland;0;Brazil;0;25262
+1974;18/06/1974;19:30;Group 1;Olympiastadion;Berlin West ;Germany;Chile;1;German DR;1;20807
+1974;18/06/1974;19:30;Group 2;Parkstadion;Gelsenkirchen ;Germany;Yugoslavia;9;Zaire;0;22794
+1974;19/06/1974;19:30;Group 3;Westfalenstadion;Dortmund ;Germany;Netherlands;0;Sweden;0;1431
+1974;19/06/1974;19:30;Group 3;Niedersachsenstadion;Hanover ;Germany;Bulgaria;1;Uruguay;1;8379
+1974;19/06/1974;19:30;Group 4;Olympiastadion;Munich ;Germany;Haiti;0;Poland;7;14548
+1974;19/06/1974;19:30;Group 4;Neckarstadion;Stuttgart ;Germany;Argentina;1;Italy;1;11532
+1974;22/06/1974;16:00;Group 2;Waldstadion;Frankfurt/Main ;Germany;Scotland;1;Yugoslavia;1;36636
+1974;22/06/1974;16:00;Group 1;Olympiastadion;Berlin West ;Germany;Australia;0;Chile;0;9421
+1974;22/06/1974;16:00;Group 2;Parkstadion;Gelsenkirchen ;Germany;Zaire;0;Brazil;3;35860
+1974;22/06/1974;19:30;Group 1;Volksparkstadion;Hamburg ;Germany;German DR;1;Germany FR;0;10799
+1974;23/06/1974;16:00;Group 3;Westfalenstadion;Dortmund ;Germany;Bulgaria;1;Netherlands;4;1193
+1974;23/06/1974;16:00;Group 4;Olympiastadion;Munich ;Germany;Argentina;4;Haiti;1;49304
+1974;23/06/1974;16:00;Group 3;Rheinstadion;Dusseldorf ;Germany;Sweden;3;Uruguay;0;2916
+1974;23/06/1974;16:00;Group 4;Neckarstadion;Stuttgart ;Germany;Poland;2;Italy;1;40500
+1974;26/06/1974;16:00;Group B;Rheinstadion;Dusseldorf ;Germany;Yugoslavia;0;Germany FR;2;39902
+1974;26/06/1974;19:30;Group A;Niedersachsenstadion;Hanover ;Germany;Brazil;1;German DR;0;7320
+1974;26/06/1974;19:30;Group A;Parkstadion;Gelsenkirchen ;Germany;Netherlands;4;Argentina;0;21547
+1974;26/06/1974;19:30;Group B;Neckarstadion;Stuttgart ;Germany;Sweden;0;Poland;1;42068
+1974;30/06/1974;16:00;Group A;Niedersachsenstadion;Hanover ;Germany;Argentina;1;Brazil;2;39665
+1974;30/06/1974;16:00;Group B;Waldstadion;Frankfurt/Main ;Germany;Poland;2;Yugoslavia;1;25323
+1974;30/06/1974;16:00;Group A;Parkstadion;Gelsenkirchen ;Germany;German DR;0;Netherlands;2;6422
+1974;30/06/1974;19:30;Group B;Rheinstadion;Dusseldorf ;Germany;Germany FR;4;Sweden;2;42723
+1974;3/07/1974;17:00;Group B;Waldstadion;Frankfurt/Main ;Germany;Poland;0;Germany FR;1;49987
+1974;3/07/1974;19:30;Group A;Westfalenstadion;Dortmund ;Germany;Netherlands;2;Brazil;0;15475
+1974;3/07/1974;19:30;Group A;Parkstadion;Gelsenkirchen ;Germany;Argentina;1;German DR;1;38333
+1974;3/07/1974;19:30;Group B;Rheinstadion;Dusseldorf ;Germany;Sweden;2;Yugoslavia;1;39247
+1974;6/07/1974;16:00;Match for third place;Olympiastadion;Munich ;Germany;Brazil;0;Poland;1;41164
+1974;7/07/1974;16:00;Final;Olympiastadion;Munich ;Germany;Netherlands;1;Germany FR;2;29254
+1978;1/06/1978;15:00;Group 2;El Monumental - Estadio Monumental Antonio Vespuci;Buenos Aires ;Argentina;Germany FR;0;Poland;0;20152
+1978;2/06/1978;13:45;Group 1;Estadio José María Minella;Mar Del Plata ;Argentina;Italy;2;France;1;44427
+1978;2/06/1978;16:45;Group 2;Arroyito - Estadio Dr. Lisandro de la Torre;Rosario ;Argentina;Tunisia;3;Mexico;1;8463
+1978;2/06/1978;19:15;Group 1;El Monumental - Estadio Monumental Antonio Vespuci;Buenos Aires ;Argentina;Argentina;2;Hungary;1;19230
+1978;3/06/1978;13:45;Group 3;Estadio José María Minella;Mar Del Plata ;Argentina;Sweden;1;Brazil;1;44438
+1978;3/06/1978;13:45;Group 3;Jose Amalfitani;Buenos Aires ;Argentina;Austria;2;Spain;1;42155
+1978;3/06/1978;16:45;Group 4;Estadio Olímpico Chateau Carreras;Cordoba ;Argentina;Peru;3;Scotland;1;44230
+1978;3/06/1978;16:45;Group 4;San Martin;Mendoza ;Argentina;Netherlands;3;IR Iran;0;33628
+1978;6/06/1978;13:45;Group 1;Estadio José María Minella;Mar Del Plata ;Argentina;Italy;3;Hungary;1;49686
+1978;6/06/1978;16:45;Group 2;Arroyito - Estadio Dr. Lisandro de la Torre;Rosario ;Argentina;Poland;1;Tunisia;0;30528
+1978;6/06/1978;16:45;Group 2;Estadio Olímpico Chateau Carreras;Cordoba ;Argentina;Germany FR;6;Mexico;0;31198
+1978;6/06/1978;19:15;Group 1;El Monumental - Estadio Monumental Antonio Vespuci;Buenos Aires ;Argentina;Argentina;2;France;1;21489
+1978;7/06/1978;13:45;Group 3;Estadio José María Minella;Mar Del Plata ;Argentina;Brazil;0;Spain;0;12418
+1978;7/06/1978;13:45;Group 3;Jose Amalfitani;Buenos Aires ;Argentina;Austria;1;Sweden;0;22147
+1978;7/06/1978;16:45;Group 4;Estadio Olímpico Chateau Carreras;Cordoba ;Argentina;Scotland;1;IR Iran;1;22579
+1978;7/06/1978;16:45;Group 4;San Martin;Mendoza ;Argentina;Netherlands;0;Peru;0;22621
+1978;10/06/1978;15:10;Group 1;Estadio José María Minella;Mar Del Plata ;Argentina;France;3;Hungary;1;9689
+1978;10/06/1978;16:45;Group 2;Arroyito - Estadio Dr. Lisandro de la Torre;Rosario ;Argentina;Poland;3;Mexico;1;43924
+1978;10/06/1978;16:45;Group 2;Estadio Olímpico Chateau Carreras;Cordoba ;Argentina;Germany FR;0;Tunisia;0;24776
+1978;10/06/1978;19:15;Group 1;El Monumental - Estadio Monumental Antonio Vespuci;Buenos Aires ;Argentina;Italy;1;Argentina;0;26347
+1978;11/06/1978;13:45;Group 3;Estadio José María Minella;Mar Del Plata ;Argentina;Brazil;1;Austria;0;28519
+1978;11/06/1978;13:45;Group 3;Jose Amalfitani;Buenos Aires ;Argentina;Spain;1;Sweden;0;40627
+1978;11/06/1978;16:45;Group 4;Estadio Olímpico Chateau Carreras;Cordoba ;Argentina;Peru;4;Iran;1;16198
+1978;11/06/1978;16:45;Group 4;San Martin;Mendoza ;Argentina;Scotland;3;Netherlands;2;12288
+1978;14/06/1978;13:45;Group A;El Monumental - Estadio Monumental Antonio Vespuci;Buenos Aires ;Argentina;Germany FR;0;Italy;0;11719
+1978;14/06/1978;13:45;Group A;Estadio Olímpico Chateau Carreras;Cordoba ;Argentina;Netherlands;5;Austria;1;43492
+1978;14/06/1978;16:45;Group B;San Martin;Mendoza ;Argentina;Brazil;3;Peru;0;13733
+1978;14/06/1978;19:15;Group B;Arroyito - Estadio Dr. Lisandro de la Torre;Rosario ;Argentina;Argentina;2;Poland;0;23661
+1978;18/06/1978;13:45;Group B;San Martin;Mendoza ;Argentina;Poland;1;Peru;0;11013
+1978;18/06/1978;16:45;Group A;El Monumental - Estadio Monumental Antonio Vespuci;Buenos Aires ;Argentina;Italy;1;Austria;0;41851
+1978;18/06/1978;16:45;Group A;Estadio Olímpico Chateau Carreras;Cordoba ;Argentina;Germany FR;2;Netherlands;2;49736
+1978;18/06/1978;19:15;Group B;Arroyito - Estadio Dr. Lisandro de la Torre;Rosario ;Argentina;Argentina;0;Brazil;0;18747
+1978;21/06/1978;13:45;Group A;El Monumental - Estadio Monumental Antonio Vespuci;Buenos Aires ;Argentina;Netherlands;2;Italy;1;43429
+1978;21/06/1978;13:45;Group A;Estadio Olímpico Chateau Carreras;Cordoba ;Argentina;Austria;3;Germany FR;2;4843
+1978;21/06/1978;16:45;Group B;San Martin;Mendoza ;Argentina;Brazil;3;Poland;1;26993
+1978;21/06/1978;19:15;Group B;Arroyito - Estadio Dr. Lisandro de la Torre;Rosario ;Argentina;Argentina;6;Peru;0;12835
+1978;24/06/1978;15:00;Match for third place;El Monumental - Estadio Monumental Antonio Vespuci;Buenos Aires ;Argentina;Brazil;2;Italy;1;40883
+1978;25/06/1978;15:00;Final;El Monumental - Estadio Monumental Antonio Vespuci;Buenos Aires ;Argentina;Argentina;3;Netherlands;1;26748
+1982;13/06/1982;20:00;Group 3;Camp Nou;Barcelona ;Spain;Argentina;0;Belgium;1;46807
+1982;14/06/1982;17:15;Group 1;Estadio Municipal de Balaidos;Vigo ;Spain;Italy;0;Poland;0;9926
+1982;14/06/1982;21:00;Group 6;Ramon Sanchez Pizjuan;Seville ;Spain;Brazil;2;Soviet Union;1;15290
+1982;15/06/1982;17:15;Group 1;Riazor;La Coruña ;Spain;Peru;0;Cameroon;0;46283
+1982;15/06/1982;21:00;Group 3;Nuevo Estadio;Elche ;Spain;Hungary;10;El Salvador;1;21373
+1982;15/06/1982;21:00;Group 6;La Rosaleda;Malaga ;Spain;Scotland;5;New Zealand;2;7571
+1982;16/06/1982;17:15;Group 2;El Molinon;Gijon ;Spain;Germany FR;1;Algeria;2;29529
+1982;16/06/1982;17:15;Group 4;San Mames;Bilbao ;Spain;England;3;France;1;30199
+1982;16/06/1982;21:00;Group 5;Luis Casanova;Valencia ;Spain;Spain;1;Honduras;1;29729
+1982;17/06/1982;17:15;Group 2;Carlos Tartiere;Oviedo ;Spain;Chile;0;Austria;1;4693
+1982;17/06/1982;17:45;Group 4;Jose Zorrilla;Valladolid ;Spain;Czechoslovakia;1;Kuwait;1;28414
+1982;17/06/1982;21:00;Group 5;La Romareda;Zaragoza ;Spain;Yugoslavia;0;Northern Ireland;0;38507
+1982;18/06/1982;17:15;Group 1;Estadio Municipal de Balaidos;Vigo ;Spain;Italy;1;Peru;1;44467
+1982;18/06/1982;21:00;Group 3;Jose Rico Perez;Alicante ;Spain;Argentina;4;Hungary;1;40520
+1982;18/06/1982;21:00;Group 6;Benito Villamarin;Seville ;Spain;Brazil;4;Scotland;1;22941
+1982;19/06/1982;19:15;Group 1;Riazor;La Coruña ;Spain;Poland;0;Cameroon;0;2972
+1982;19/06/1982;21:00;Group 3;Nuevo Estadio;Elche ;Spain;Belgium;1;El Salvador;0;37972
+1982;19/06/1982;21:00;Group 6;La Rosaleda;Malaga ;Spain;Soviet Union;3;New Zealand;0;28855
+1982;20/06/1982;17:15;Group 2;El Molinon;Gijon ;Spain;Germany FR;4;Chile;1;43783
+1982;20/06/1982;17:15;Group 4;San Mames;Bilbao ;Spain;England;2;Czechoslovakia;0;19940
+1982;20/06/1982;21:00;Group 5;Luis Casanova;Valencia ;Spain;Spain;2;Yugoslavia;1;11629
+1982;21/06/1982;17:15;Group 2;Carlos Tartiere;Oviedo ;Spain;Algeria;0;Austria;2;3951
+1982;21/06/1982;17:15;Group 4;Jose Zorrilla;Valladolid ;Spain;France;4;Kuwait;1;17678
+1982;21/06/1982;21:00;Group 5;La Romareda;Zaragoza ;Spain;Honduras;1;Northern Ireland;1;42958
+1982;22/06/1982;17:15;Group 1;Riazor;La Coruña ;Spain;Poland;5;Peru;1;19633
+1982;22/06/1982;21:00;Group 3;Nuevo Estadio;Elche ;Spain;Belgium;1;Hungary;1;45467
+1982;22/06/1982;21:00;Group 6;La Rosaleda;Malaga ;Spain;Soviet Union;2;Scotland;2;16446
+1982;23/06/1982;17:15;Group 1;Estadio Municipal de Balaidos;Vigo ;Spain;Italy;1;Cameroon;1;1300
+1982;23/06/1982;21:00;Group 3;Jose Rico Perez;Alicante ;Spain;Argentina;2;El Salvador;0;8220
+1982;23/06/1982;21:00;Group 6;Benito Villamarin;Seville ;Spain;Brazil;4;New Zealand;0;28453
+1982;24/06/1982;17:15;Group 2;Carlos Tartiere;Oviedo ;Spain;Algeria;3;Chile;2;10343
+1982;24/06/1982;17:15;Group 4;Jose Zorrilla;Valladolid ;Spain;France;1;Czechoslovakia;1;14748
+1982;24/06/1982;21:00;Group 5;La Romareda;Zaragoza ;Spain;Honduras;0;Yugoslavia;1;14873
+1982;25/06/1982;17:15;Group 2;El Molinon;Gijon ;Spain;Germany FR;1;Austria;0;8523
+1982;25/06/1982;17:15;Group 4;San Mames;Bilbao ;Spain;England;1;Kuwait;0;7766
+1982;25/06/1982;21:00;Group 5;Luis Casanova;Valencia ;Spain;Northern Ireland;1;Spain;0;28899
+1982;28/06/1982;17:15;Group 4;Vicente Calderon;Madrid ;Spain;Austria;0;France;1;49041
+1982;28/06/1982;21:00;Group 1;Camp Nou;Barcelona ;Spain;Poland;3;Belgium;0;10971
+1982;29/06/1982;17:15;Group 3;Sarria;Barcelona ;Spain;Italy;2;Argentina;1;18119
+1982;29/06/1982;21:00;Group 2;Santiago Bernabeu;Madrid ;Spain;Germany FR;0;England;0;26650
+1982;1/07/1982;17:15;Group 4;Vicente Calderon;Madrid ;Spain;Austria;2;Northern Ireland;2;39413
+1982;1/07/1982;21:00;Group 1;Camp Nou;Barcelona ;Spain;Belgium;0;Soviet Union;1;30871
+1982;2/07/1982;17:15;Group 3;Sarria;Barcelona ;Spain;Argentina;1;Brazil;3;25563
+1982;2/07/1982;21:00;Group 2;Santiago Bernabeu;Madrid ;Spain;Germany FR;2;Spain;1;1260
+1982;4/07/1982;17:15;Group 4;Vicente Calderon;Madrid ;Spain;France;4;Northern Ireland;1;6805
+1982;4/07/1982;21:00;Group 1;Camp Nou;Barcelona ;Spain;Poland;0;Soviet Union;0;31265
+1982;5/07/1982;17:15;Group 3;Sarria;Barcelona ;Spain;Italy;3;Brazil;2;27862
+1982;5/07/1982;21:00;Group 2;Santiago Bernabeu;Madrid ;Spain;Spain;0;England;0;49017
+1982;8/07/1982;17:15;Semi-finals;Camp Nou;Barcelona ;Spain;Poland;0;Italy;2;47169
+1982;8/07/1982;21:00;Semi-finals;Ramon Sanchez Pizjuan;Seville ;Spain;Germany FR;3;France;3;33228
+1982;10/07/1982;20:00;Match for third place;Jose Rico Perez;Alicante ;Spain;Poland;3;France;2;38117
+1982;11/07/1982;20:00;Final;Santiago Bernabeu;Madrid ;Spain;Italy;3;Germany FR;1;9820
+1986;31/05/1986;12:00;Group A;Estadio Azteca;Mexico City ;Mexico;Bulgaria;1;Italy;1;17494
+1986;1/06/1986;16:00;Group C;Nou Camp - Estadio León;Leon ;Mexico;Canada;0;France;1;6272
+1986;1/06/1986;12:00;Group D;Jalisco;Guadalajara ;Mexico;Spain;0;Brazil;1;7714
+1986;2/06/1986;12:00;Group C;Estadio Irapuato;Irapuato ;Mexico;Soviet Union;6;Hungary;0;32048
+1986;2/06/1986;12:00;Group A;Estadio Olímpico Universitario;Mexico City ;Mexico;Argentina;3;Korea Republic;1;4558
+1986;2/06/1986;16:00;Group F;Estadio Universitario;Monterrey ;Mexico;Morocco;0;Poland;0;20541
+1986;3/06/1986;12:00;Group D;Tres de Marzo;Guadalajara ;Mexico;Algeria;1;Northern Ireland;1;12882
+1986;3/06/1986;12:00;Group B;Estadio Azteca;Mexico City ;Mexico;Belgium;1;Mexico;2;30946
+1986;3/06/1986;16:00;Group F;Tecnologico;Monterrey ;Mexico;Portugal;1;England;0;49703
+1986;4/06/1986;12:00;Group B;Bombonera - Estadio Nemesio Diez;Toluca ;Mexico;Paraguay;1;Iraq;0;40969
+1986;4/06/1986;16:00;Group E;Neza;Nezahualcoyotl ;Mexico;Scotland;0;Denmark;1;41707
+1986;4/06/1986;12:00;Group E;Estadio Corregidora;Queretaro ;Mexico;Uruguay;1;Germany FR;1;1970
+1986;5/06/1986;12:00;Group A;Cuauhtemoc;Puebla ;Mexico;Italy;1;Argentina;1;27464
+1986;5/06/1986;12:00;Group C;Nou Camp - Estadio León;Leon ;Mexico;France;1;Soviet Union;1;27150
+1986;5/06/1986;16:00;Group A;Estadio Olímpico Universitario;Mexico City ;Mexico;Korea Republic;1;Bulgaria;1;31815
+1986;6/06/1986;12:00;Group C;Estadio Irapuato;Irapuato ;Mexico;Hungary;2;Canada;0;35336
+1986;6/06/1986;12:00;Group D;Jalisco;Guadalajara ;Mexico;Brazil;1;Algeria;0;40558
+1986;6/06/1986;16:00;Group F;Tecnologico;Monterrey ;Mexico;England;0;Morocco;0;33798
+1986;7/06/1986;12:00;Group D;Tres de Marzo;Guadalajara ;Mexico;Northern Ireland;1;Spain;2;41345
+1986;7/06/1986;12:00;Group B;Estadio Azteca;Mexico City ;Mexico;Mexico;1;Paraguay;1;29212
+1986;7/06/1986;16:00;Group F;Estadio Universitario;Monterrey ;Mexico;Poland;1;Portugal;0;16333
+1986;8/06/1986;12:00;Group B;Bombonera - Estadio Nemesio Diez;Toluca ;Mexico;Iraq;1;Belgium;2;22322
+1986;8/06/1986;16:00;Group E;Neza;Nezahualcoyotl ;Mexico;Denmark;6;Uruguay;1;32750
+1986;8/06/1986;12:00;Group E;Estadio Corregidora;Queretaro ;Mexico;Germany FR;2;Scotland;1;2416
+1986;9/06/1986;12:00;Group C;Nou Camp - Estadio León;Leon ;Mexico;Hungary;0;France;3;17648
+1986;9/06/1986;12:00;Group C;Estadio Irapuato;Irapuato ;Mexico;Soviet Union;2;Canada;0;43044
+1986;10/06/1986;12:00;Group A;Cuauhtemoc;Puebla ;Mexico;Korea Republic;2;Italy;3;35033
+1986;10/06/1986;12:00;Group A;Estadio Olímpico Universitario;Mexico City ;Mexico;Argentina;2;Bulgaria;0;21900
+1986;11/06/1986;12:00;Group B;Bombonera - Estadio Nemesio Diez;Toluca ;Mexico;Paraguay;2;Belgium;2;8696
+1986;11/06/1986;12:00;Group B;Estadio Azteca;Mexico City ;Mexico;Iraq;0;Mexico;1;16581
+1986;11/06/1986;16:00;Group F;Tres de Marzo;Guadalajara ;Mexico;Portugal;1;Morocco;3;17123
+1986;11/06/1986;16:00;Group F;Tecnologico;Monterrey ;Mexico;England;3;Poland;0;49009
+1986;12/06/1986;12:00;Group D;Jalisco;Guadalajara ;Mexico;Northern Ireland;0;Brazil;3;3123
+1986;12/06/1986;12:00;Group D;Tecnologico;Monterrey ;Mexico;Algeria;0;Spain;3;18758
+1986;13/06/1986;12:00;Group E;Neza;Nezahualcoyotl ;Mexico;Scotland;0;Uruguay;0;40532
+1986;13/06/1986;12:00;Group E;Estadio Corregidora;Queretaro ;Mexico;Denmark;2;Germany FR;0;6170
+1986;15/06/1986;16:00;Round of 16;Nou Camp - Estadio León;Leon ;Mexico;Soviet Union;3;Belgium;4;32196
+1986;15/06/1986;12:00;Round of 16;Estadio Azteca;Mexico City ;Mexico;Mexico;2;Bulgaria;0;46163
+1986;16/06/1986;16:00;Round of 16;Cuauhtemoc;Puebla ;Mexico;Argentina;1;Uruguay;0;9704
+1986;16/06/1986;12:00;Round of 16;Jalisco;Guadalajara ;Mexico;Brazil;4;Poland;0;12599
+1986;17/06/1986;12:00;Round of 16;Estadio Olímpico Universitario;Mexico City ;Mexico;Italy;0;France;2;28996
+1986;17/06/1986;16:00;Round of 16;Estadio Universitario;Monterrey ;Mexico;Morocco;0;Germany FR;1;11683
+1986;18/06/1986;12:00;Round of 16;Estadio Azteca;Mexico City ;Mexico;England;3;Paraguay;0;4691
+1986;18/06/1986;16:00;Round of 16;Estadio Corregidora;Queretaro ;Mexico;Denmark;1;Spain;5;33066
+1986;21/06/1986;12:00;Quarter-finals;Jalisco;Guadalajara ;Mexico;Brazil;1;France;1;41070
+1986;21/06/1986;16:00;Quarter-finals;Estadio Universitario;Monterrey ;Mexico;Germany FR;0;Mexico;0;6486
+1986;22/06/1986;16:00;Quarter-finals;Cuauhtemoc;Puebla ;Mexico;Spain;1;Belgium;1;45209
+1986;22/06/1986;12:00;Quarter-finals;Estadio Azteca;Mexico City ;Mexico;Argentina;2;England;1;8410
+1986;25/06/1986;12:00;Semi-finals;Jalisco;Guadalajara ;Mexico;France;0;Germany FR;2;26618
+1986;25/06/1986;16:00;Semi-finals;Estadio Azteca;Mexico City ;Mexico;Argentina;2;Belgium;0;35567
+1986;28/06/1986;12:00;Match for third place;Cuauhtemoc;Puebla ;Mexico;France;4;Belgium;2;23825
+1986;29/06/1986;12:00;Final;Estadio Azteca;Mexico City ;Mexico;Argentina;3;Germany FR;2;34505
+1990;8/06/1990;18:00;Group B;Giuseppe Meazza;Milan ;Italy;Argentina;0;Cameroon;1;17042
+1990;9/06/1990;17:00;Group B;Stadio San Nicola;Bari ;Italy;Soviet Union;0;Romania;2;12297
+1990;9/06/1990;17:00;Group D;Renato Dall Ara;Bologna ;Italy;United Arab Emirates;0;Colombia;2;38042
+1990;9/06/1990;21:00;Group A;Stadio Olimpico;Rome ;Italy;Italy;1;Austria;0;48426
+1990;10/06/1990;17:00;Group A;Comunale;Florence ;Italy;USA;1;Czechoslovakia;5;25676
+1990;10/06/1990;21:00;Group C;Stadio delle Alpi;Turin ;Italy;Brazil;2;Sweden;1;31775
+1990;10/06/1990;21:00;Group D;Giuseppe Meazza;Milan ;Italy;Germany FR;4;Yugoslavia;1;17637
+1990;11/06/1990;17:00;Group C;Luigi Ferraris;Genoa ;Italy;Costa Rica;1;Scotland;0;1063
+1990;11/06/1990;21:00;Group F;Sant Elia;Cagliari ;Italy;England;1;Republic of Ireland;1;41919
+1990;12/06/1990;17:00;Group E;Marc Antonio Bentegodi;Verona ;Italy;Belgium;2;Korea Republic;0;40521
+1990;12/06/1990;21:00;Group F;Della Favorita;Palermo ;Italy;Netherlands;1;Egypt;1;47393
+1990;13/06/1990;17:00;Group E;Dacia Arena;Udine ;Italy;Uruguay;0;Spain;0;33850
+1990;13/06/1990;21:00;Group B;San Paolo;Naples ;Italy;Argentina;2;Soviet Union;0;12141
+1990;14/06/1990;17:00;Group B;Stadio San Nicola;Bari ;Italy;Cameroon;2;Romania;1;42488
+1990;14/06/1990;17:00;Group D;Renato Dall Ara;Bologna ;Italy;Yugoslavia;1;Colombia;0;39776
+1990;14/06/1990;21:00;Group A;Stadio Olimpico;Rome ;Italy;Italy;1;USA;0;46006
+1990;15/06/1990;17:00;Group A;Comunale;Florence ;Italy;Austria;0;Czechoslovakia;1;25120
+1990;15/06/1990;21:00;Group D;Giuseppe Meazza;Milan ;Italy;Germany FR;5;United Arab Emirates;1;47066
+1990;16/06/1990;17:00;Group C;Stadio delle Alpi;Turin ;Italy;Brazil;1;Costa Rica;0;42998
+1990;16/06/1990;21:00;Group C;Luigi Ferraris;Genoa ;Italy;Sweden;1;Scotland;2;29377
+1990;16/06/1990;21:00;Group F;Sant Elia;Cagliari ;Italy;England;0;Netherlands;0;14357
+1990;17/06/1990;17:00;Group F;Della Favorita;Palermo ;Italy;Republic of Ireland;0;Egypt;0;32864
+1990;17/06/1990;21:00;Group E;Dacia Arena;Udine ;Italy;Korea Republic;1;Spain;3;8169
+1990;17/06/1990;21:00;Group E;Marc Antonio Bentegodi;Verona ;Italy;Belgium;3;Uruguay;1;37461
+1990;18/06/1990;21:00;Group B;San Paolo;Naples ;Italy;Argentina;1;Romania;1;18039
+1990;18/06/1990;21:00;Group B;Stadio San Nicola;Bari ;Italy;Cameroon;0;Soviet Union;4;41042
+1990;19/06/1990;17:00;Group D;Giuseppe Meazza;Milan ;Italy;Germany FR;1;Colombia;1;25801
+1990;19/06/1990;17:00;Group D;Renato Dall Ara;Bologna ;Italy;Yugoslavia;4;United Arab Emirates;1;4415
+1990;19/06/1990;21:00;Group A;Stadio Olimpico;Rome ;Italy;Italy;2;Czechoslovakia;0;42577
+1990;19/06/1990;21:00;Group A;Comunale;Florence ;Italy;Austria;2;USA;1;19713
+1990;20/06/1990;21:00;Group C;Stadio delle Alpi;Turin ;Italy;Brazil;1;Scotland;0;24514
+1990;20/06/1990;21:00;Group C;Luigi Ferraris;Genoa ;Italy;Sweden;1;Costa Rica;2;44192
+1990;21/06/1990;17:00;Group E;Friuli;Udine ;Italy;Korea Republic;0;Uruguay;1;9461
+1990;21/06/1990;17:00;Group E;Marc Antonio Bentegodi;Verona ;Italy;Belgium;1;Spain;2;3348
+1990;21/06/1990;21:00;Group F;Della Favorita;Palermo ;Italy;Republic of Ireland;1;Netherlands;1;4751
+1990;21/06/1990;21:00;Group F;Sant Elia;Cagliari ;Italy;England;1;Egypt;0;46813
+1990;23/06/1990;17:00;Round of 16;San Paolo;Naples ;Italy;Cameroon;2;Colombia;1;46426
+1990;23/06/1990;21:00;Round of 16;Stadio San Nicola;Bari ;Italy;Czechoslovakia;4;Costa Rica;1;23519
+1990;24/06/1990;17:00;Round of 16;Stadio delle Alpi;Turin ;Italy;Brazil;0;Argentina;1;9650
+1990;24/06/1990;21:00;Round of 16;Giuseppe Meazza;Milan ;Italy;Germany FR;2;Netherlands;1;4568
+1990;25/06/1990;17:00;Round of 16;Luigi Ferraris;Genoa ;Italy;Republic of Ireland;0;Romania;0;39302
+1990;25/06/1990;21:00;Round of 16;Stadio Olimpico;Rome ;Italy;Italy;2;Uruguay;0;45299
+1990;26/06/1990;17:00;Round of 16;Marc Antonio Bentegodi;Verona ;Italy;Spain;1;Yugoslavia;2;23034
+1990;26/06/1990;21:00;Round of 16;Renato Dall Ara;Bologna ;Italy;England;1;Belgium;0;12504
+1990;30/06/1990;17:00;Quarter-finals;Comunale;Florence ;Italy;Yugoslavia;0;Argentina;0;18147
+1990;30/06/1990;21:00;Quarter-finals;Stadio Olimpico;Rome ;Italy;Italy;1;Republic of Ireland;0;15769
+1990;1/07/1990;17:00;Quarter-finals;Giuseppe Meazza;Milan ;Italy;Germany FR;1;Czechoslovakia;0;5387
+1990;1/07/1990;21:00;Quarter-finals;San Paolo;Naples ;Italy;England;3;Cameroon;2;24611
+1990;3/07/1990;20:00;Semi-finals;San Paolo;Naples ;Italy;Italy;1;Argentina;1;16947
+1990;4/07/1990;20:00;Semi-finals;Stadio delle Alpi;Turin ;Italy;Germany FR;1;England;1;38054
+1990;7/07/1990;20:00;Match for third place;Stadio San Nicola;Bari ;Italy;Italy;2;England;1;47266
+1990;8/07/1990;20:00;Final;Stadio Olimpico;Rome ;Italy;Germany FR;1;Argentina;0;15192
+1994;17/06/1994;19:30;Group C;Cotton Bowl;Dallas ;USA;Spain;2;Korea Republic;2;35287
+1994;17/06/1994;15:00;Group C;Soldier Field;Chicago ;USA;Germany;1;Bolivia;0;16839
+1994;18/06/1994;11:30;Group A;Pontiac Silverdome;Detroit ;USA;USA;1;Switzerland;1;41845
+1994;18/06/1994;16:00;Group E;Giants Stadium;New York/New Jersey ;USA;Italy;0;Republic of Ireland;1;44177
+1994;18/06/1994;19:30;Group A;Rose Bowl;Los Angeles ;USA;Colombia;1;Romania;3;24644
+1994;19/06/1994;12:30;Group F;Citrus Bowl;Orlando ;USA;Belgium;1;Morocco;0;17516
+1994;19/06/1994;16:00;Group E;RFK Stadium;Washington Dc ;USA;Norway;1;Mexico;0;11505
+1994;19/06/1994;19:30;Group B;Rose Bowl;Los Angeles ;USA;Cameroon;2;Sweden;2;7228
+1994;20/06/1994;19:30;Group F;RFK Stadium;Washington Dc ;USA;Netherlands;2;Saudi Arabia;1;29256
+1994;20/06/1994;16:00;Group B;Stanford Stadium;San Francisco ;USA;Brazil;2;Russia;0;49860
+1994;21/06/1994;12:30;Group D;Foxboro Stadium;Boston ;USA;Argentina;4;Greece;0;46215
+1994;21/06/1994;19:30;Group D;Cotton Bowl;Dallas ;USA;Nigeria;3;Bulgaria;0;18940
+1994;21/06/1994;16:00;Group C;Soldier Field;Chicago ;USA;Germany;1;Spain;1;1696
+1994;22/06/1994;16:00;Group A;Pontiac Silverdome;Detroit ;USA;Romania;1;Switzerland;4;10646
+1994;22/06/1994;19:30;Group A;Rose Bowl;Los Angeles ;USA;USA;2;Colombia;1;33183
+1994;23/06/1994;16:00;Group E;Giants Stadium;New York/New Jersey ;USA;Italy;1;Norway;0;5530
+1994;23/06/1994;19:30;Group C;Foxboro Stadium;Boston ;USA;Korea Republic;0;Bolivia;0;16320
+1994;24/06/1994;12:30;Group E;Citrus Bowl;Orlando ;USA;Mexico;2;Republic of Ireland;1;20110
+1994;24/06/1994;19:30;Group B;Pontiac Silverdome;Detroit ;USA;Sweden;3;Russia;1;46255
+1994;24/06/1994;16:00;Group B;Stanford Stadium;San Francisco ;USA;Brazil;3;Cameroon;0;45304
+1994;25/06/1994;12:30;Group F;Citrus Bowl;Orlando ;USA;Belgium;1;Netherlands;0;17193
+1994;25/06/1994;12:30;Group F;Giants Stadium;New York/New Jersey ;USA;Saudi Arabia;2;Morocco;1;25054
+1994;25/06/1994;16:00;Group D;Foxboro Stadium;Boston ;USA;Argentina;2;Nigeria;1;41249
+1994;26/06/1994;12:30;Group D;Soldier Field;Chicago ;USA;Bulgaria;4;Greece;0;3691
+1994;26/06/1994;16:00;Group A;Rose Bowl;Los Angeles ;USA;USA;0;Romania;1;40533
+1994;26/06/1994;16:00;Group A;Stanford Stadium;San Francisco ;USA;Switzerland;0;Colombia;2;34326
+1994;27/06/1994;16:00;Group C;Cotton Bowl;Dallas ;USA;Germany;3;Korea Republic;2;38237
+1994;27/06/1994;16:00;Group C;Soldier Field;Chicago ;USA;Bolivia;1;Spain;3;6132
+1994;28/06/1994;12:30;Group E;Giants Stadium;New York/New Jersey ;USA;Republic of Ireland;0;Norway;0;33781
+1994;28/06/1994;16:00;Group B;Pontiac Silverdome;Detroit ;USA;Brazil;1;Sweden;1;25251
+1994;28/06/1994;12:30;Group E;RFK Stadium;Washington Dc ;USA;Italy;1;Mexico;1;42229
+1994;28/06/1994;16:00;Group B;Stanford Stadium;San Francisco ;USA;Russia;6;Cameroon;1;46501
+1994;29/06/1994;12:30;Group F;Citrus Bowl;Orlando ;USA;Morocco;1;Netherlands;2;24075
+1994;29/06/1994;12:30;Group F;RFK Stadium;Washington Dc ;USA;Belgium;0;Saudi Arabia;1;17372
+1994;30/06/1994;19:30;Group D;Foxboro Stadium;Boston ;USA;Greece;0;Nigeria;2;23692
+1994;30/06/1994;19:30;Group D;Cotton Bowl;Dallas ;USA;Argentina;0;Bulgaria;2;49527
+1994;2/07/1994;12:00;Round of 16;Soldier Field;Chicago ;USA;Germany;3;Belgium;2;16198
+1994;2/07/1994;16:30;Round of 16;RFK Stadium;Washington Dc ;USA;Spain;3;Switzerland;0;26813
+1994;3/07/1994;12:00;Round of 16;Cotton Bowl;Dallas ;USA;Saudi Arabia;1;Sweden;3;46338
+1994;3/07/1994;13:30;Round of 16;Rose Bowl;Los Angeles ;USA;Romania;3;Argentina;2;48065
+1994;4/07/1994;12:00;Round of 16;Citrus Bowl;Orlando ;USA;Netherlands;2;Republic of Ireland;0;42700
+1994;4/07/1994;12:30;Round of 16;Stanford Stadium;San Francisco ;USA;Brazil;1;USA;0;45804
+1994;5/07/1994;13:00;Round of 16;Foxboro Stadium;Boston ;USA;Nigeria;1;Italy;2;48936
+1994;5/07/1994;16:30;Round of 16;Giants Stadium;New York/New Jersey ;USA;Mexico;1;Bulgaria;1;37045
+1994;9/07/1994;12:00;Quarter-finals;Foxboro Stadium;Boston ;USA;Italy;2;Spain;1;4333
+1994;9/07/1994;14:30;Quarter-finals;Cotton Bowl;Dallas ;USA;Netherlands;2;Brazil;3;15646
+1994;10/07/1994;12:00;Quarter-finals;Giants Stadium;New York/New Jersey ;USA;Bulgaria;2;Germany;1;42158
+1994;10/07/1994;12:30;Quarter-finals;Stanford Stadium;San Francisco ;USA;Romania;2;Sweden;2;10870
+1994;13/07/1994;16:00;Semi-finals;Giants Stadium;New York/New Jersey ;USA;Bulgaria;1;Italy;2;43885
+1994;13/07/1994;16:30;Semi-finals;Rose Bowl;Los Angeles ;USA;Sweden;0;Brazil;1;40602
+1994;16/07/1994;12:30;Match for third place;Rose Bowl;Los Angeles ;USA;Sweden;4;Bulgaria;0;14227
+1994;17/07/1994;12:30;Final;Rose Bowl;Los Angeles ;USA;Brazil;0;Italy;0;12366
+1998;10/06/1998;17:30;Group A;Stade de France;Saint-Denis ;France;Brazil;2;Scotland;1;1501
+1998;10/06/1998;21:00;Group A;La Mosson;Montpellier ;France;Morocco;2;Norway;2;41467
+1998;11/06/1998;17:30;Group B;Stade du Parc Lescure;Bordeaux ;France;Italy;2;Chile;2;25061
+1998;11/06/1998;21:00;Group B;Stade Municipal;Toulouse ;France;Cameroon;1;Austria;1;34570
+1998;12/06/1998;14:30;Group D;La Mosson;Montpellier ;France;Paraguay;0;Bulgaria;0;42773
+1998;12/06/1998;17:30;Group C;Stade Felix Bollaert;Lens ;France;Saudi Arabia;0;Denmark;1;29940
+1998;12/06/1998;21:00;Group C;Stade Vélodrome;Marseilles ;France;France;3;South Africa;0;41004
+1998;13/06/1998;14:30;Group D;La Beaujoire;Nantes ;France;Spain;2;Nigeria;3;30027
+1998;13/06/1998;17:30;Group E;Stade de Gerland;Lyon ;France;Korea Republic;1;Mexico;3;30693
+1998;13/06/1998;21:00;Group E;Stade de France;Saint-Denis ;France;Netherlands;0;Belgium;0;39903
+1998;14/06/1998;14:30;Group H;Stade Municipal;Toulouse ;France;Argentina;1;Japan;0;22097
+1998;14/06/1998;17:30;Group F;Stade Geoffroy Guichard;Saint-Etienne ;France;Yugoslavia;1;Iran;0;26270
+1998;14/06/1998;21:00;Group H;Stade Felix Bollaert;Lens ;France;Jamaica;1;Croatia;3;5063
+1998;15/06/1998;14:30;Group G;Stade Vélodrome;Marseilles ;France;England;2;Tunisia;0;5491
+1998;15/06/1998;17:30;Group G;Stade de Gerland;Lyon ;France;Romania;1;Colombia;0;41025
+1998;15/06/1998;21:00;Group F;Parc des Princes;Paris ;France;Germany;2;USA;0;31852
+1998;16/06/1998;17:30;Group A;Stade du Parc Lescure;Bordeaux ;France;Scotland;1;Norway;1;30869
+1998;16/06/1998;21:00;Group A;La Beaujoire;Nantes ;France;Brazil;3;Morocco;0;28431
+1998;17/06/1998;17:30;Group B;Stade Geoffroy Guichard;Saint-Etienne ;France;Chile;1;Austria;1;47454
+1998;17/06/1998;21:00;Group B;La Mosson;Montpellier ;France;Italy;3;Cameroon;0;47148
+1998;18/06/1998;17:30;Group C;Stade Municipal;Toulouse ;France;South Africa;1;Denmark;1;25470
+1998;18/06/1998;21:00;Group C;Stade de France;Saint-Denis ;France;France;4;Saudi Arabia;0;17103
+1998;19/06/1998;17:30;Group D;Parc des Princes;Paris ;France;Nigeria;1;Bulgaria;0;12846
+1998;19/06/1998;21:00;Group D;Stade Geoffroy Guichard;Saint-Etienne ;France;Spain;0;Paraguay;0;36537
+1998;20/06/1998;14:30;Group H;La Beaujoire;Nantes ;France;Japan;0;Croatia;1;44697
+1998;20/06/1998;17:30;Group E;Stade du Parc Lescure;Bordeaux ;France;Belgium;2;Mexico;2;22831
+1998;20/06/1998;21:00;Group E;Stade Vélodrome;Marseilles ;France;Netherlands;5;Korea Republic;0;5008
+1998;21/06/1998;14:30;Group F;Stade Felix Bollaert;Lens ;France;Germany;2;Yugoslavia;2;16325
+1998;21/06/1998;17:30;Group H;Parc des Princes;Paris ;France;Argentina;5;Jamaica;0;14872
+1998;21/06/1998;21:00;Group F;Stade de Gerland;Lyon ;France;USA;1;Iran;2;22259
+1998;22/06/1998;17:30;Group G;La Mosson;Montpellier ;France;Colombia;1;Tunisia;0;12582
+1998;22/06/1998;21:00;Group G;Stade Municipal;Toulouse ;France;Romania;2;England;1;4166
+1998;23/06/1998;16:00;Group B;Stade de France;Saint-Denis ;France;Italy;2;Austria;1;21550
+1998;23/06/1998;16:00;Group B;La Beaujoire;Nantes ;France;Chile;1;Cameroon;1;45540
+1998;23/06/1998;21:00;Group A;Stade Geoffroy Guichard;Saint-Etienne ;France;Scotland;0;Morocco;3;23965
+1998;23/06/1998;21:00;Group A;Stade Vélodrome;Marseilles ;France;Brazil;1;Norway;2;39772
+1998;24/06/1998;16:00;Group C;Stade de Gerland;Lyon ;France;France;2;Denmark;1;23263
+1998;24/06/1998;16:00;Group C;Stade du Parc Lescure;Bordeaux ;France;South Africa;2;Saudi Arabia;2;38315
+1998;24/06/1998;21:00;Group D;Stade Felix Bollaert;Lens ;France;Spain;6;Bulgaria;1;13308
+1998;24/06/1998;21:00;Group D;Stade Municipal;Toulouse ;France;Nigeria;1;Paraguay;3;14905
+1998;25/06/1998;16:00;Group E;Parc des Princes;Paris ;France;Belgium;1;Korea Republic;1;23450
+1998;25/06/1998;16:00;Group E;Stade Geoffroy Guichard;Saint-Etienne ;France;Netherlands;2;Mexico;2;30201
+1998;25/06/1998;21:00;Group F;La Mosson;Montpellier ;France;Germany;2;Iran;0;9136
+1998;25/06/1998;21:00;Group F;La Beaujoire;Nantes ;France;USA;0;Yugoslavia;1;24992
+1998;26/06/1998;16:00;Group H;Stade de Gerland;Lyon ;France;Japan;1;Jamaica;2;13045
+1998;26/06/1998;16:00;Group H;Stade du Parc Lescure;Bordeaux ;France;Argentina;1;Croatia;0;6323
+1998;26/06/1998;21:00;Group G;Stade de France;Saint-Denis ;France;Romania;1;Tunisia;1;48706
+1998;26/06/1998;21:00;Group G;Stade Felix Bollaert;Lens ;France;Colombia;0;England;2;24212
+1998;27/06/1998;16:30;Round of 16;Stade Vélodrome;Marseilles ;France;Italy;1;Norway;0;47580
+1998;27/06/1998;21:00;Round of 16;Parc des Princes;Paris ;France;Brazil;4;Chile;1;22246
+1998;28/06/1998;16:30;Round of 16;Stade Felix Bollaert;Lens ;France;France;1;Paraguay;0;18865
+1998;28/06/1998;21:00;Round of 16;Stade de France;Saint-Denis ;France;Nigeria;1;Denmark;4;39085
+1998;29/06/1998;16:30;Round of 16;La Mosson;Montpellier ;France;Germany;2;Mexico;1;27793
+1998;29/06/1998;21:00;Round of 16;Stade Municipal;Toulouse ;France;Netherlands;2;Yugoslavia;1;5924
+1998;30/06/1998;16:30;Round of 16;Stade du Parc Lescure;Bordeaux ;France;Romania;0;Croatia;1;25552
+1998;30/06/1998;21:00;Round of 16;Stade Geoffroy Guichard;Saint-Etienne ;France;Argentina;2;England;2;37797
+1998;3/07/1998;16:30;Quarter-finals;Stade de France;Saint-Denis ;France;Italy;0;France;0;24000
+1998;3/07/1998;21:00;Quarter-finals;La Beaujoire;Nantes ;France;Brazil;3;Denmark;2;34759
+1998;4/07/1998;16:30;Quarter-finals;Stade Vélodrome;Marseilles ;France;Netherlands;2;Argentina;1;23350
+1998;4/07/1998;21:00;Quarter-finals;Stade de Gerland;Lyon ;France;Germany;0;Croatia;3;12157
+1998;7/07/1998;21:00;Semi-finals;Stade Vélodrome;Marseilles ;France;Brazil;1;Netherlands;1;43395
+1998;8/07/1998;21:00;Semi-finals;Stade de France;Saint-Denis ;France;France;2;Croatia;1;25388
+1998;11/07/1998;21:00;Match for third place;Parc des Princes;Paris ;France;Netherlands;1;Croatia;2;17957
+1998;12/07/1998;21:00;Final;Stade de France;Saint-Denis ;France;Brazil;0;France;3;30350
+2002;31/05/2002;20:30;Group A;Seoul World Cup Stadium;Seoul ;Korea/Japan;France;0;Senegal;1;33333
+2002;1/06/2002;18:00;Group A;Munsu Football Stadium;Ulsan ;Korea/Japan;Uruguay;1;Denmark;2;49831
+2002;1/06/2002;15:30;Group E;Niigata Stadium Big Swan;Niigata ;Korea/Japan;Republic of Ireland;1;Cameroon;1;21966
+2002;1/06/2002;20:30;Group E;Sapporo Dome;Sapporo ;Korea/Japan;Germany;8;Saudi Arabia;0;25206
+2002;2/06/2002;14:30;Group F;Kashima Stadium;Ibaraki ;Korea/Japan;Argentina;1;Nigeria;0;39651
+2002;2/06/2002;16:30;Group B;Busan Asiad Main Stadium;Busan ;Korea/Japan;Paraguay;2;South Africa;2;2042
+2002;2/06/2002;18:30;Group F;Saitama Stadium 2002;Saitama ;Korea/Japan;England;1;Sweden;1;5761
+2002;2/06/2002;20:30;Group B;Gwangju World Cup Stadium;Gwangju ;Korea/Japan;Spain;3;Slovenia;1;39299
+2002;3/06/2002;18:00;Group C;Munsu Football Stadium;Ulsan ;Korea/Japan;Brazil;2;Turkey;1;15276
+2002;3/06/2002;20:30;Group G;Sapporo Dome;Sapporo ;Korea/Japan;Italy;2;Ecuador;0;47565
+2002;3/06/2002;15:30;Group G;Niigata Stadium Big Swan;Niigata ;Korea/Japan;Croatia;0;Mexico;1;25968
+2002;4/06/2002;15:30;Group C;Gwangju World Cup Stadium;Gwangju ;Korea/Japan;China PR;0;Costa Rica;2;45346
+2002;4/06/2002;18:00;Group H;Saitama Stadium 2002;Saitama ;Korea/Japan;Japan;2;Belgium;2;10748
+2002;4/06/2002;20:30;Group D;Busan Asiad Main Stadium;Busan ;Korea/Japan;Korea Republic;2;Poland;0;11670
+2002;5/06/2002;15:30;Group H;Kobe Wing Stadium;Kobe ;Korea/Japan;Russia;2;Tunisia;0;6709
+2002;5/06/2002;18:00;Group D;Suwon World Cup Stadium;Suwon ;Korea/Japan;USA;3;Portugal;2;20400
+2002;5/06/2002;20:30;Group E;Kashima Stadium;Ibaraki ;Korea/Japan;Germany;1;Republic of Ireland;1;3984
+2002;6/06/2002;15:30;Group A;Daegu World Cup Stadium;Daegu ;Korea/Japan;Denmark;1;Senegal;1;21616
+2002;6/06/2002;18:00;Group E;Saitama Stadium 2002;Saitama ;Korea/Japan;Cameroon;1;Saudi Arabia;0;33245
+2002;6/06/2002;20:30;Group A;Busan Asiad Main Stadium;Busan ;Korea/Japan;France;0;Uruguay;0;7787
+2002;7/06/2002;15:30;Group F;Kobe Wing Stadium;Kobe ;Korea/Japan;Sweden;2;Nigeria;1;35932
+2002;7/06/2002;20:30;Group F;Sapporo Dome;Sapporo ;Korea/Japan;Argentina;0;England;1;16215
+2002;7/06/2002;18:00;Group B;Jeonju World Cup Stadium;Jeonju ;Korea/Japan;Spain;3;Paraguay;1;22758
+2002;8/06/2002;15:30;Group B;Daegu World Cup Stadium;Daegu ;Korea/Japan;South Africa;1;Slovenia;0;9345
+2002;8/06/2002;20:30;Group C;Jeju World Cup Stadium;Jeju ;Korea/Japan;Brazil;4;China PR;0;4080
+2002;8/06/2002;18:00;Group G;Kashima Stadium;Ibaraki ;Korea/Japan;Italy;1;Croatia;2;14174
+2002;9/06/2002;18:00;Group C;Incheon Football Stadium;Incheon ;Korea/Japan;Costa Rica;1;Turkey;1;4705
+2002;9/06/2002;20:30;Group H;International Stadium Yokohama;Yokohama ;Korea/Japan;Japan;1;Russia;0;26411
+2002;9/06/2002;15:30;Group G;Miyagi Stadium;Rifu ;Korea/Japan;Mexico;2;Ecuador;1;20419
+2002;10/06/2002;15:30;Group D;Daegu World Cup Stadium;Daegu ;Korea/Japan;Korea Republic;1;USA;1;12602
+2002;10/06/2002;20:30;Group D;Jeonju World Cup Stadium;Jeonju ;Korea/Japan;Portugal;4;Poland;0;37217
+2002;10/06/2002;18:00;Group H;Oita Stadium Big Eye;Oita ;Korea/Japan;Tunisia;1;Belgium;1;15214
+2002;11/06/2002;15:30;Group A;Incheon Football Stadium;Incheon ;Korea/Japan;Denmark;2;France;0;14692
+2002;11/06/2002;15:30;Group A;Suwon World Cup Stadium;Suwon ;Korea/Japan;Senegal;3;Uruguay;3;48253
+2002;11/06/2002;20:30;Group E;International Stadium Yokohama;Yokohama ;Korea/Japan;Saudi Arabia;0;Republic of Ireland;3;29794
+2002;11/06/2002;20:30;Group E;Shizuoka Stadium Ecopa;Shizuoka ;Korea/Japan;Cameroon;0;Germany;2;37237
+2002;12/06/2002;15:30;Group F;Miyagi Stadium;Rifu ;Korea/Japan;Sweden;1;Argentina;1;21148
+2002;12/06/2002;15:30;Group F;Osaka Nagai Stadium;Osaka ;Korea/Japan;Nigeria;0;England;0;25741
+2002;12/06/2002;20:30;Group B;Jeju World Cup Stadium;Jeju ;Korea/Japan;Slovenia;1;Paraguay;3;37245
+2002;12/06/2002;20:30;Group B;Daejeon World Cup Stadium;Daejeon ;Korea/Japan;South Africa;2;Spain;3;20089
+2002;13/06/2002;15:30;Group C;Suwon World Cup Stadium;Suwon ;Korea/Japan;Costa Rica;2;Brazil;5;48938
+2002;13/06/2002;15:30;Group C;Seoul World Cup Stadium;Seoul ;Korea/Japan;Turkey;3;China PR;0;9576
+2002;13/06/2002;20:30;Group G;International Stadium Yokohama;Yokohama ;Korea/Japan;Ecuador;1;Croatia;0;7061
+2002;13/06/2002;20:30;Group G;Oita Stadium Big Eye;Oita ;Korea/Japan;Mexico;1;Italy;1;47733
+2002;14/06/2002;15:30;Group H;Osaka Nagai Stadium;Osaka ;Korea/Japan;Tunisia;0;Japan;2;14761
+2002;14/06/2002;20:30;Group D;Incheon Football Stadium;Incheon ;Korea/Japan;Portugal;0;Korea Republic;1;14512
+2002;14/06/2002;20:30;Group D;Daejeon World Cup Stadium;Daejeon ;Korea/Japan;Poland;3;USA;1;33923
+2002;14/06/2002;15:30;Group H;Shizuoka Stadium Ecopa;Shizuoka ;Korea/Japan;Belgium;3;Russia;2;10040
+2002;15/06/2002;20:30;Round of 16;Niigata Stadium Big Swan;Niigata ;Korea/Japan;Denmark;0;England;3;8843
+2002;15/06/2002;15:30;Round of 16;Jeju World Cup Stadium;Jeju ;Korea/Japan;Germany;1;Paraguay;0;36814
+2002;16/06/2002;20:30;Round of 16;Suwon World Cup Stadium;Suwon ;Korea/Japan;Spain;1;Republic of Ireland;1;19156
+2002;16/06/2002;15:30;Round of 16;Oita Stadium Big Eye;Oita ;Korea/Japan;Sweden;1;Senegal;2;6598
+2002;17/06/2002;20:30;Round of 16;Kobe Wing Stadium;Kobe ;Korea/Japan;Brazil;2;Belgium;0;39583
+2002;17/06/2002;15:30;Round of 16;Jeonju World Cup Stadium;Jeonju ;Korea/Japan;Mexico;0;USA;2;3111
+2002;18/06/2002;15:30;Round of 16;Miyagi Stadium;Rifu ;Korea/Japan;Japan;0;Turkey;1;11603
+2002;18/06/2002;20:30;Round of 16;Daejeon World Cup Stadium;Daejeon ;Korea/Japan;Korea Republic;2;Italy;1;26045
+2002;21/06/2002;15:30;Quarter-finals;Shizuoka Stadium Ecopa;Shizuoka ;Korea/Japan;England;1;Brazil;2;12886
+2002;21/06/2002;20:30;Quarter-finals;Munsu Football Stadium;Ulsan ;Korea/Japan;Germany;1;USA;0;24105
+2002;22/06/2002;20:30;Quarter-finals;Osaka Nagai Stadium;Osaka ;Korea/Japan;Senegal;0;Turkey;1;6536
+2002;22/06/2002;15:30;Quarter-finals;Gwangju World Cup Stadium;Gwangju ;Korea/Japan;Spain;0;Korea Republic;0;17922
+2002;25/06/2002;20:30;Semi-finals;Seoul World Cup Stadium;Seoul ;Korea/Japan;Germany;1;Korea Republic;0;25614
+2002;26/06/2002;20:30;Semi-finals;Saitama Stadium 2002;Saitama ;Korea/Japan;Brazil;1;Turkey;0;49987
+2002;29/06/2002;20:00;Third place;Daegu World Cup Stadium;Daegu ;Korea/Japan;Korea Republic;2;Turkey;3;23119
+2002;30/06/2002;20:00;Final;International Stadium Yokohama;Yokohama ;Korea/Japan;Germany;0;Brazil;2;38767
+2006;9/06/2006;18:00;Group A;FIFA World Cup Stadium, Munich;Munich ;Germany;Germany;4;Costa Rica;2;37246
+2006;9/06/2006;21:00;Group A;FIFA World Cup Stadium, Gelsenkirchen;Gelsenkirchen ;Germany;Poland;0;Ecuador;2;38095
+2006;10/06/2006;15:00;Group B;FIFA World Cup Stadium, Frankfurt;Frankfurt/Main ;Germany;England;1;Paraguay;0;36155
+2006;10/06/2006;18:00;Group B;FIFA World Cup Stadium, Dortmund;Dortmund ;Germany;Trinidad and Tobago;0;Sweden;0;5079
+2006;10/06/2006;21:00;Group C;FIFA World Cup Stadium, Hamburg;Hamburg ;Germany;Argentina;2;Cote d'Ivoire;1;36131
+2006;11/06/2006;15:00;Group C;Zentralstadion;Leipzig ;Germany;Serbia and Montenegro;0;Netherlands;1;11445
+2006;11/06/2006;18:00;Group D;Franken-Stadion;Nuremberg ;Germany;Mexico;3;Iran;1;14059
+2006;11/06/2006;21:00;Group D;FIFA World Cup Stadium, Cologne;Cologne ;Germany;Angola;0;Portugal;1;5018
+2006;12/06/2006;15:00;Group F;Fritz-Walter-Stadion;Kaiserslautern ;Germany;Australia;3;Japan;1;29064
+2006;12/06/2006;18:00;Group E;FIFA World Cup Stadium, Gelsenkirchen;Gelsenkirchen ;Germany;USA;0;Czech Republic;3;10932
+2006;12/06/2006;21:00;Group E;FIFA World Cup Stadium, Hanover;Hanover ;Germany;Italy;2;Ghana;0;35583
+2006;13/06/2006;15:00;Group G;FIFA World Cup Stadium, Frankfurt;Frankfurt/Main ;Germany;Korea Republic;2;Togo;1;13376
+2006;13/06/2006;18:00;Group G;Gottlieb-Daimler-Stadion;Stuttgart ;Germany;France;0;Switzerland;0;19563
+2006;13/06/2006;21:00;Group F;Olympiastadion;Berlin ;Germany;Brazil;1;Croatia;0;19101
+2006;14/06/2006;15:00;Group H;Zentralstadion;Leipzig ;Germany;Spain;4;Ukraine;0;30467
+2006;14/06/2006;18:00;Group H;FIFA World Cup Stadium, Munich;Munich ;Germany;Tunisia;2;Saudi Arabia;2;14539
+2006;14/06/2006;21:00;Group A;FIFA World Cup Stadium, Dortmund;Dortmund ;Germany;Germany;1;Poland;0;34128
+2006;15/06/2006;15:00;Group A;FIFA World Cup Stadium, Hamburg;Hamburg ;Germany;Ecuador;3;Costa Rica;0;34920
+2006;15/06/2006;18:00;Group B;Franken-Stadion;Nuremberg ;Germany;England;2;Trinidad and Tobago;0;26642
+2006;15/06/2006;21:00;Group B;Olympiastadion;Berlin ;Germany;Sweden;1;Paraguay;0;23042
+2006;16/06/2006;15:00;Group C;FIFA World Cup Stadium, Gelsenkirchen;Gelsenkirchen ;Germany;Argentina;6;Serbia and Montenegro;0;47675
+2006;16/06/2006;18:00;Group C;Gottlieb-Daimler-Stadion;Stuttgart ;Germany;Netherlands;2;Cote d'Ivoire;1;15200
+2006;16/06/2006;21:00;Group D;FIFA World Cup Stadium, Hanover;Hanover ;Germany;Mexico;0;Angola;0;12953
+2006;17/06/2006;15:00;Group D;FIFA World Cup Stadium, Frankfurt;Frankfurt/Main ;Germany;Portugal;2;IR Iran;0;40139
+2006;17/06/2006;18:00;Group E;FIFA World Cup Stadium, Cologne;Cologne ;Germany;Czech Republic;0;Ghana;2;11479
+2006;17/06/2006;21:00;Group E;Fritz-Walter-Stadion;Kaiserslautern ;Germany;Italy;1;USA;1;22843
+2006;18/06/2006;15:00;Group F;Franken-Stadion;Nuremberg ;Germany;Japan;0;Croatia;0;39028
+2006;18/06/2006;18:00;Group F;FIFA World Cup Stadium, Munich;Munich ;Germany;Brazil;2;Australia;0;20396
+2006;18/06/2006;21:00;Group G;Zentralstadion;Leipzig ;Germany;France;1;Korea Republic;1;25022
+2006;19/06/2006;15:00;Group G;FIFA World Cup Stadium, Dortmund;Dortmund ;Germany;Togo;0;Switzerland;2;43968
+2006;19/06/2006;18:00;Group H;FIFA World Cup Stadium, Hamburg;Hamburg ;Germany;Saudi Arabia;0;Ukraine;4;47248
+2006;19/06/2006;21:00;Group H;Gottlieb-Daimler-Stadion;Stuttgart ;Germany;Spain;3;Tunisia;1;38683
+2006;20/06/2006;16:00;Group A;Olympiastadion;Berlin ;Germany;Ecuador;0;Germany;3;12527
+2006;20/06/2006;16:00;Group A;FIFA World Cup Stadium, Hanover;Hanover ;Germany;Costa Rica;1;Poland;2;31094
+2006;20/06/2006;21:00;Group B;FIFA World Cup Stadium, Cologne;Cologne ;Germany;Sweden;2;England;2;49528
+2006;20/06/2006;21:00;Group B;Fritz-Walter-Stadion;Kaiserslautern ;Germany;Paraguay;2;Trinidad and Tobago;0;36362
+2006;21/06/2006;16:00;Group D;Zentralstadion;Leipzig ;Germany;Iran;1;Angola;1;26906
+2006;21/06/2006;16:00;Group D;FIFA World Cup Stadium, Gelsenkirchen;Gelsenkirchen ;Germany;Portugal;2;Mexico;1;49709
+2006;21/06/2006;21:00;Group C;FIFA World Cup Stadium, Frankfurt;Frankfurt/Main ;Germany;Netherlands;0;Argentina;0;43354
+2006;21/06/2006;21:00;Group C;FIFA World Cup Stadium, Munich;Munich ;Germany;Cote d'Ivoire;3;Serbia and Montenegro;2;22099
+2006;22/06/2006;16:00;Group E;FIFA World Cup Stadium, Hamburg;Hamburg ;Germany;Czech Republic;0;Italy;2;14533
+2006;22/06/2006;16:00;Group E;Franken-Stadion;Nuremberg ;Germany;Ghana;2;USA;1;18206
+2006;22/06/2006;21:00;Group F;FIFA World Cup Stadium, Dortmund;Dortmund ;Germany;Japan;1;Brazil;4;3553
+2006;22/06/2006;21:00;Group F;Gottlieb-Daimler-Stadion;Stuttgart ;Germany;Croatia;2;Australia;2;21637
+2006;23/06/2006;16:00;Group H;Olympiastadion;Berlin ;Germany;Ukraine;1;Tunisia;0;16046
+2006;23/06/2006;16:00;Group H;Fritz-Walter-Stadion;Kaiserslautern ;Germany;Saudi Arabia;0;Spain;1;18180
+2006;23/06/2006;21:00;Group G;FIFA World Cup Stadium, Cologne;Cologne ;Germany;Togo;0;France;2;37891
+2006;23/06/2006;21:00;Group G;FIFA World Cup Stadium, Hanover;Hanover ;Germany;Switzerland;2;Korea Republic;0;43750
+2006;24/06/2006;17:00;Round of 16;FIFA World Cup Stadium, Munich;Munich ;Germany;Germany;2;Sweden;0;43031
+2006;24/06/2006;21:00;Round of 16;Zentralstadion;Leipzig ;Germany;Argentina;2;Mexico;1;44978
+2006;25/06/2006;17:00;Round of 16;Gottlieb-Daimler-Stadion;Stuttgart ;Germany;England;1;Ecuador;0;33490
+2006;25/06/2006;21:00;Round of 16;Franken-Stadion;Nuremberg ;Germany;Portugal;1;Netherlands;0;43589
+2006;26/06/2006;17:00;Round of 16;Fritz-Walter-Stadion;Kaiserslautern ;Germany;Italy;1;Australia;0;6562
+2006;26/06/2006;21:00;Round of 16;FIFA World Cup Stadium, Cologne;Cologne ;Germany;Switzerland;0;Ukraine;0;25728
+2006;27/06/2006;17:00;Round of 16;FIFA World Cup Stadium, Dortmund;Dortmund ;Germany;Brazil;3;Ghana;0;34653
+2006;27/06/2006;21:00;Round of 16;FIFA World Cup Stadium, Hanover;Hanover ;Germany;Spain;1;France;3;28576
+2006;30/06/2006;17:00;Quarter-finals;Olympiastadion;Berlin ;Germany;Germany;1;Argentina;1;20802
+2006;30/06/2006;21:00;Quarter-finals;FIFA World Cup Stadium, Hamburg;Hamburg ;Germany;Italy;3;Ukraine;0;22152
+2006;1/07/2006;17:00;Quarter-finals;FIFA World Cup Stadium, Gelsenkirchen;Gelsenkirchen ;Germany;England;0;Portugal;0;24132
+2006;1/07/2006;21:00;Quarter-finals;FIFA World Cup Stadium, Frankfurt;Frankfurt/Main ;Germany;Brazil;0;France;1;45938
+2006;4/07/2006;21:00;Semi-finals;FIFA World Cup Stadium, Dortmund;Dortmund ;Germany;Germany;0;Italy;2;26509
+2006;5/07/2006;21:00;Semi-finals;FIFA World Cup Stadium, Munich;Munich ;Germany;Portugal;0;France;1;8681
+2006;8/07/2006;21:00;Third place;Gottlieb-Daimler-Stadion;Stuttgart ;Germany;Germany;3;Portugal;1;36718
+2006;9/07/2006;20:00;Final;Olympiastadion;Berlin ;Germany;Italy;1;France;1;12001
+2010;11/06/2010;16:00;Group A;Soccer City Stadium;Johannesburg ;South Africa;South Africa;1;Mexico;1;16437
+2010;11/06/2010;20:30;Group A;Cape Town Stadium;Cape Town ;South Africa;Uruguay;0;France;0;11464
+2010;12/06/2010;13:30;Group B;Port Elizabeth Stadium;Nelson Mandela Bay/Port Elizabeth ;South Africa;Korea Republic;2;Greece;0;4136
+2010;12/06/2010;16:00;Group B;Ellis Park Stadium;Johannesburg ;South Africa;Argentina;1;Nigeria;0;45982
+2010;12/06/2010;20:30;Group C;Royal Bafokeng Sports Palace;Phokeng ;South Africa;England;1;USA;1;37205
+2010;13/06/2010;13:30;Group C;Peter Mokaba Stadium;Polokwane ;South Africa;Algeria;0;Slovenia;1;35632
+2010;13/06/2010;16:00;Group D;Loftus Versfeld Stadium;Tshwane/Pretoria ;South Africa;Serbia;0;Ghana;1;3841
+2010;13/06/2010;20:30;Group D;Durban Stadium;Durban ;South Africa;Germany;4;Australia;0;20235
+2010;14/06/2010;13:30;Group E;Soccer City Stadium;Johannesburg ;South Africa;Netherlands;2;Denmark;0;36979
+2010;14/06/2010;16:00;Group E;Free State Stadium;Mangaung/Bloemfontein ;South Africa;Japan;1;Cameroon;0;30184
+2010;14/06/2010;20:30;Group F;Cape Town Stadium;Cape Town ;South Africa;Italy;1;Paraguay;1;38491
+2010;15/06/2010;13:30;Group F;Royal Bafokeng Sports Palace;Phokeng ;South Africa;New Zealand;1;Slovakia;1;45620
+2010;15/06/2010;16:00;Group G;Port Elizabeth Stadium;Nelson Mandela Bay/Port Elizabeth ;South Africa;Cote d'Ivoire;0;Portugal;0;45727
+2010;15/06/2010;20:30;Group G;Ellis Park Stadium;Johannesburg ;South Africa;Brazil;2;Korea DPR;1;3670
+2010;16/06/2010;13:30;Group H;Mbombela Stadium;Nelspruit ;South Africa;Honduras;0;Chile;1;47053
+2010;16/06/2010;16:00;Group H;Durban Stadium;Durban ;South Africa;Spain;0;Switzerland;1;46600
+2010;16/06/2010;20:30;Group A;Loftus Versfeld Stadium;Tshwane/Pretoria ;South Africa;South Africa;0;Uruguay;3;9825
+2010;17/06/2010;13:30;Group B;Soccer City Stadium;Johannesburg ;South Africa;Argentina;4;Korea Republic;1;11078
+2010;17/06/2010;16:00;Group B;Free State Stadium;Mangaung/Bloemfontein ;South Africa;Greece;2;Nigeria;1;11294
+2010;17/06/2010;20:30;Group A;Peter Mokaba Stadium;Polokwane ;South Africa;France;0;Mexico;2;41166
+2010;18/06/2010;13:30;Group D;Port Elizabeth Stadium;Nelson Mandela Bay/Port Elizabeth ;South Africa;Germany;0;Serbia;1;48859
+2010;18/06/2010;16:00;Group C;Ellis Park Stadium;Johannesburg ;South Africa;Slovenia;2;USA;2;11524
+2010;18/06/2010;20:30;Group C;Cape Town Stadium;Cape Town ;South Africa;England;0;Algeria;0;42046
+2010;19/06/2010;13:30;Group E;Durban Stadium;Durban ;South Africa;Netherlands;1;Japan;0;18277
+2010;19/06/2010;16:00;Group D;Royal Bafokeng Sports Palace;Phokeng ;South Africa;Ghana;1;Australia;1;10349
+2010;19/06/2010;20:30;Group E;Loftus Versfeld Stadium;Tshwane/Pretoria ;South Africa;Cameroon;1;Denmark;2;16084
+2010;20/06/2010;13:30;Group F;Free State Stadium;Mangaung/Bloemfontein ;South Africa;Slovakia;0;Paraguay;2;7725
+2010;20/06/2010;16:00;Group F;Mbombela Stadium;Nelspruit ;South Africa;Italy;1;New Zealand;1;19733
+2010;20/06/2010;20:30;Group G;Soccer City Stadium;Johannesburg ;South Africa;Brazil;3;Cote d'Ivoire;1;32348
+2010;21/06/2010;13:30;Group G;Cape Town Stadium;Cape Town ;South Africa;Portugal;7;Korea DPR;0;3352
+2010;21/06/2010;16:00;Group H;Port Elizabeth Stadium;Nelson Mandela Bay/Port Elizabeth ;South Africa;Chile;1;Switzerland;0;8007
+2010;21/06/2010;20:30;Group H;Ellis Park Stadium;Johannesburg ;South Africa;Spain;2;Honduras;0;12458
+2010;22/06/2010;16:00;Group A;Royal Bafokeng Sports Palace;Phokeng ;South Africa;Mexico;0;Uruguay;1;46658
+2010;22/06/2010;16:00;Group A;Free State Stadium;Mangaung/Bloemfontein ;South Africa;France;1;South Africa;2;47631
+2010;22/06/2010;20:30;Group B;Durban Stadium;Durban ;South Africa;Nigeria;2;Korea Republic;2;16599
+2010;22/06/2010;20:30;Group B;Peter Mokaba Stadium;Polokwane ;South Africa;Greece;0;Argentina;2;15646
+2010;23/06/2010;16:00;Group C;Port Elizabeth Stadium;Nelson Mandela Bay/Port Elizabeth ;South Africa;Slovenia;0;England;1;27344
+2010;23/06/2010;16:00;Group C;Loftus Versfeld Stadium;Tshwane/Pretoria ;South Africa;USA;1;Algeria;0;5258
+2010;23/06/2010;20:30;Group D;Soccer City Stadium;Johannesburg ;South Africa;Ghana;0;Germany;1;23242
+2010;23/06/2010;20:30;Group D;Mbombela Stadium;Nelspruit ;South Africa;Australia;2;Serbia;1;27772
+2010;24/06/2010;16:00;Group F;Ellis Park Stadium;Johannesburg ;South Africa;Slovakia;3;Italy;2;35174
+2010;24/06/2010;16:00;Group F;Peter Mokaba Stadium;Polokwane ;South Africa;Paraguay;0;New Zealand;0;25150
+2010;24/06/2010;20:30;Group E;Royal Bafokeng Sports Palace;Phokeng ;South Africa;Denmark;1;Japan;3;42058
+2010;24/06/2010;20:30;Group E;Cape Town Stadium;Cape Town ;South Africa;Cameroon;1;Netherlands;2;46133
+2010;25/06/2010;16:00;Group G;Durban Stadium;Durban ;South Africa;Portugal;0;Brazil;0;15527
+2010;25/06/2010;16:00;Group G;Mbombela Stadium;Nelspruit ;South Africa;Korea DPR;0;Cote d'Ivoire;3;45551
+2010;25/06/2010;20:30;Group H;Loftus Versfeld Stadium;Tshwane/Pretoria ;South Africa;Chile;1;Spain;2;45068
+2010;25/06/2010;20:30;Group H;Free State Stadium;Mangaung/Bloemfontein ;South Africa;Switzerland;0;Honduras;0;33555
+2010;26/06/2010;16:00;Round of 16;Port Elizabeth Stadium;Nelson Mandela Bay/Port Elizabeth ;South Africa;Uruguay;2;Korea Republic;1;13227
+2010;26/06/2010;20:30;Round of 16;Royal Bafokeng Sports Palace;Phokeng ;South Africa;USA;1;Ghana;2;8488
+2010;27/06/2010;16:00;Round of 16;Free State Stadium;Mangaung/Bloemfontein ;South Africa;Germany;4;England;1;36707
+2010;27/06/2010;20:30;Round of 16;Soccer City Stadium;Johannesburg ;South Africa;Argentina;3;Mexico;1;27824
+2010;28/06/2010;16:00;Round of 16;Durban Stadium;Durban ;South Africa;Netherlands;2;Slovakia;1;45247
+2010;28/06/2010;20:30;Round of 16;Ellis Park Stadium;Johannesburg ;South Africa;Brazil;3;Chile;0;25971
+2010;29/06/2010;16:00;Round of 16;Loftus Versfeld Stadium;Tshwane/Pretoria ;South Africa;Paraguay;0;Japan;0;24552
+2010;29/06/2010;20:30;Round of 16;Cape Town Stadium;Cape Town ;South Africa;Spain;1;Portugal;0;11476
+2010;2/07/2010;16:00;Quarter-finals;Port Elizabeth Stadium;Nelson Mandela Bay/Port Elizabeth ;South Africa;Netherlands;2;Brazil;1;32668
+2010;2/07/2010;20:30;Quarter-finals;Soccer City Stadium;Johannesburg ;South Africa;Uruguay;1;Ghana;1;37948
+2010;3/07/2010;16:00;Quarter-finals;Cape Town Stadium;Cape Town ;South Africa;Argentina;0;Germany;4;32830
+2010;3/07/2010;20:30;Quarter-finals;Ellis Park Stadium;Johannesburg ;South Africa;Paraguay;0;Spain;1;1806
+2010;6/07/2010;20:30;Semi-finals;Cape Town Stadium;Cape Town ;South Africa;Uruguay;2;Netherlands;3;18647
+2010;7/07/2010;20:30;Semi-finals;Durban Stadium;Durban ;South Africa;Germany;0;Spain;1;25309
+2010;10/07/2010;20:30;Match for third place;Port Elizabeth Stadium;Nelson Mandela Bay/Port Elizabeth ;South Africa;Uruguay;2;Germany;3;8648
+2010;11/07/2010;20:30;Final;Soccer City Stadium;Johannesburg ;South Africa;Netherlands;0;Spain;1;44963
+2014;12/06/2014;17:00;Group A;Arena de Sao Paulo;Sao Paulo ;Brazil;Brazil;3;Croatia;1;13932
+2014;13/06/2014;13:00;Group A;Estadio das Dunas;Natal ;Brazil;Mexico;1;Cameroon;0;35974
+2014;13/06/2014;16:00;Group B;Arena Fonte Nova;Salvador ;Brazil;Spain;1;Netherlands;5;15522
+2014;13/06/2014;18:00;Group B;Arena Pantanal;Cuiaba ;Brazil;Chile;3;Australia;1;7351
+2014;14/06/2014;13:00;Group C;Estadio Mineirao;Belo Horizonte ;Brazil;Colombia;3;Greece;0;30469
+2014;14/06/2014;16:00;Group D;Estadio Castelao;Fortaleza ;Brazil;Uruguay;1;Costa Rica;3;20148
+2014;14/06/2014;18:00;Group D;Arena Amazonia;Manaus ;Brazil;England;1;Italy;2;7663
+2014;14/06/2014;22:00;Group C;Arena Pernambuco;Recife ;Brazil;Cote d'Ivoire;2;Japan;1;33476
+2014;15/06/2014;13:00;Group E;Estadio Nacional;Brasilia ;Brazil;Switzerland;2;Ecuador;1;26629
+2014;15/06/2014;16:00;Group E;Estadio Beira-Rio;Porto Alegre ;Brazil;France;3;Honduras;0;42657
+2014;15/06/2014;19:00;Group F;Estadio do Maracana;Rio De Janeiro ;Brazil;Argentina;2;Bosnia and Herzegovina;1;21244
+2014;16/06/2014;13:00;Group G;Arena Fonte Nova;Salvador ;Brazil;Germany;4;Portugal;0;14326
+2014;16/06/2014;16:00;Group F;Arena da Baixada;Curitiba ;Brazil;IR Iran;0;Nigeria;0;32588
+2014;16/06/2014;19:00;Group G;Estadio das Dunas;Natal ;Brazil;Ghana;1;USA;2;3979
+2014;17/06/2014;13:00;Group H;Estadio Mineirao;Belo Horizonte ;Brazil;Belgium;2;Algeria;1;1242
+2014;17/06/2014;16:00;Group A;Estadio Castelao;Fortaleza ;Brazil;Brazil;0;Mexico;0;45020
+2014;17/06/2014;18:00;Group H;Arena Pantanal;Cuiaba ;Brazil;Russia;1;Korea Republic;1;29864
+2014;18/06/2014;13:00;Group B;Estadio Beira-Rio;Porto Alegre ;Brazil;Australia;2;Netherlands;3;35935
+2014;18/06/2014;16:00;Group B;Estadio do Maracana;Rio De Janeiro ;Brazil;Spain;0;Chile;2;34723
+2014;18/06/2014;18:00;Group A;Arena Amazonia;Manaus ;Brazil;Cameroon;0;Croatia;4;27076
+2014;19/06/2014;13:00;Group C;Estadio Nacional;Brasilia ;Brazil;Colombia;2;Cote d'Ivoire;1;5387
+2014;19/06/2014;16:00;Group D;Arena de Sao Paulo;Sao Paulo ;Brazil;Uruguay;2;England;1;39252
+2014;19/06/2014;19:00;Group C;Estadio das Dunas;Natal ;Brazil;Japan;0;Greece;0;2744
+2014;20/06/2014;13:00;Group D;Arena Pernambuco;Recife ;Brazil;Italy;0;Costa Rica;1;49059
+2014;20/06/2014;16:00;Group E;Arena Fonte Nova;Salvador ;Brazil;Switzerland;2;France;5;16434
+2014;20/06/2014;19:00;Group E;Arena da Baixada;Curitiba ;Brazil;Honduras;1;Ecuador;2;4384
+2014;21/06/2014;13:00;Group F;Estadio Mineirao;Belo Horizonte ;Brazil;Argentina;1;IR Iran;0;8609
+2014;21/06/2014;16:00;Group G;Estadio Castelao;Fortaleza ;Brazil;Germany;2;Ghana;2;49655
+2014;21/06/2014;18:00;Group F;Arena Pantanal;Cuiaba ;Brazil;Nigeria;1;Bosnia and Herzegovina;0;14633
+2014;22/06/2014;13:00;Group H;Estadio do Maracana;Rio De Janeiro ;Brazil;Belgium;1;Russia;0;41099
+2014;22/06/2014;16:00;Group H;Estadio Beira-Rio;Porto Alegre ;Brazil;Korea Republic;2;Algeria;4;1875
+2014;22/06/2014;18:00;Group G;Arena Amazonia;Manaus ;Brazil;USA;2;Portugal;2;33669
+2014;23/06/2014;13:00;Group B;Arena da Baixada;Curitiba ;Brazil;Australia;0;Spain;3;5690
+2014;23/06/2014;13:00;Group B;Arena de Sao Paulo;Sao Paulo ;Brazil;Netherlands;2;Chile;0;36906
+2014;23/06/2014;17:00;Group A;Estadio Nacional;Brasilia ;Brazil;Cameroon;1;Brazil;4;7156
+2014;23/06/2014;17:00;Group A;Arena Pernambuco;Recife ;Brazil;Croatia;1;Mexico;3;26644
+2014;24/06/2014;13:00;Group D;Estadio das Dunas;Natal ;Brazil;Italy;0;Uruguay;1;20530
+2014;24/06/2014;13:00;Group D;Estadio Mineirao;Belo Horizonte ;Brazil;Costa Rica;0;England;0;33257
+2014;24/06/2014;16:00;Group C;Arena Pantanal;Cuiaba ;Brazil;Japan;1;Colombia;4;39424
+2014;24/06/2014;17:00;Group C;Estadio Castelao;Fortaleza ;Brazil;Greece;2;Cote d'Ivoire;1;49923
+2014;25/06/2014;13:00;Group F;Estadio Beira-Rio;Porto Alegre ;Brazil;Nigeria;2;Argentina;3;29349
+2014;25/06/2014;13:00;Group F;Arena Fonte Nova;Salvador ;Brazil;Bosnia and Herzegovina;3;IR Iran;1;28080
+2014;25/06/2014;16:00;Group E;Arena Amazonia;Manaus ;Brazil;Honduras;0;Switzerland;3;18458
+2014;25/06/2014;17:00;Group E;Estadio do Maracana;Rio De Janeiro ;Brazil;Ecuador;0;France;0;49068
+2014;26/06/2014;13:00;Group G;Arena Pernambuco;Recife ;Brazil;USA;0;Germany;1;8466
+2014;26/06/2014;13:00;Group G;Estadio Nacional;Brasilia ;Brazil;Portugal;2;Ghana;1;6575
+2014;26/06/2014;17:00;Group H;Arena de Sao Paulo;Sao Paulo ;Brazil;Korea Republic;0;Belgium;1;38075
+2014;26/06/2014;17:00;Group H;Arena da Baixada;Curitiba ;Brazil;Algeria;1;Russia;1;30583
+2014;28/06/2014;13:00;Round of 16;Estadio Mineirao;Belo Horizonte ;Brazil;Brazil;1;Chile;1;13275
+2014;28/06/2014;17:00;Round of 16;Estadio do Maracana;Rio De Janeiro ;Brazil;Colombia;2;Uruguay;0;4575
+2014;30/06/2014;13:00;Round of 16;Estadio Nacional;Brasilia ;Brazil;France;2;Nigeria;0;43208
+2014;30/06/2014;17:00;Round of 16;Estadio Beira-Rio;Porto Alegre ;Brazil;Germany;2;Algeria;1;47127
+2014;4/07/2014;17:00;Quarter-finals;Estadio Castelao;Fortaleza ;Brazil;Brazil;2;Colombia;1;30494
+2014;4/07/2014;13:00;Quarter-finals;Estadio do Maracana;Rio De Janeiro ;Brazil;France;0;Germany;1;45478
+2014;8/07/2014;17:00;Semi-finals;Estadio Mineirao;Belo Horizonte ;Brazil;Brazil;1;Germany;7;39188
+2014;12/07/2014;17:00;Play-off for third place;Estadio Nacional;Brasilia ;Brazil;Brazil;0;Netherlands;3;9939
+2014;13/07/2014;16:00;Final;Estadio do Maracana;Rio De Janeiro ;Brazil;Germany;1;Argentina;0;7889
+2014;9/07/2014;17:00;Semi-finals;Arena de Sao Paulo;Sao Paulo ;Brazil;Netherlands;0;Argentina;0;6733
+2014;5/07/2014;17:00;Quarter-finals;Arena Fonte Nova;Salvador ;Brazil;Netherlands;0;Costa Rica;0;12086
+2014;5/07/2014;13:00;Quarter-finals;Estadio Nacional;Brasilia ;Brazil;Argentina;1;Belgium;0;10851
+2014;29/06/2014;13:00;Round of 16;Estadio Castelao;Fortaleza ;Brazil;Netherlands;2;Mexico;1;20860
+2014;29/06/2014;17:00;Round of 16;Arena Pernambuco;Recife ;Brazil;Costa Rica;1;Greece;1;34301
+2014;1/07/2014;13:00;Round of 16;Arena de Sao Paulo;Sao Paulo ;Brazil;Argentina;1;Switzerland;0;42767
+2014;1/07/2014;17:00;Round of 16;Arena Fonte Nova;Salvador ;Brazil;Belgium;2;USA;1;31886
+2014;28/06/2014;13:00;Round of 16;Estadio Mineirao;Belo Horizonte ;Brazil;Brazil;1;Chile;1;22051
+2014;28/06/2014;17:00;Round of 16;Estadio do Maracana;Rio De Janeiro ;Brazil;Colombia;2;Uruguay;0;49273
+2014;29/06/2014;13:00;Round of 16;Estadio Castelao;Fortaleza ;Brazil;Netherlands;2;Mexico;1;10602
+2014;29/06/2014;17:00;Round of 16;Arena Pernambuco;Recife ;Brazil;Costa Rica;1;Greece;1;32685
+2014;30/06/2014;13:00;Round of 16;Estadio Nacional;Brasilia ;Brazil;France;2;Nigeria;0;20981
+2014;30/06/2014;17:00;Round of 16;Estadio Beira-Rio;Porto Alegre ;Brazil;Germany;2;Algeria;1;23936
+2014;1/07/2014;13:00;Round of 16;Arena de Sao Paulo;Sao Paulo ;Brazil;Argentina;1;Switzerland;0;5321
+2014;1/07/2014;17:00;Round of 16;Arena Fonte Nova;Salvador ;Brazil;Belgium;2;USA;1;19058
+2014;4/07/2014;13:00;Quarter-finals;Estadio do Maracana;Rio De Janeiro ;Brazil;France;0;Germany;1;18110
+2014;4/07/2014;17:00;Quarter-finals;Estadio Castelao;Fortaleza ;Brazil;Brazil;2;Colombia;1;35212
+2014;5/07/2014;13:00;Quarter-finals;Estadio Nacional;Brasilia ;Brazil;Argentina;1;Belgium;0;2513
+2014;5/07/2014;17:00;Quarter-finals;Arena Fonte Nova;Salvador ;Brazil;Netherlands;0;Costa Rica;0;21531
+2014;8/07/2014;17:00;Semi-finals;Estadio Mineirao;Belo Horizonte ;Brazil;Brazil;1;Germany;7;21368
+2014;9/07/2014;17:00;Semi-finals;Arena de Sao Paulo;Sao Paulo ;Brazil;Netherlands;0;Argentina;0;5964
+2014;12/07/2014;17:00;Play-off for third place;Estadio Nacional;Brasilia ;Brazil;Brazil;0;Netherlands;3;48999
+2014;13/07/2014;16:00;Final;Estadio do Maracana;Rio De Janeiro ;Brazil;Germany;1;Argentina;0;9161
